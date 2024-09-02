@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "332465745d5607cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "530244fe878a4173",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cb7e370fdd2527b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b677c962dbd860c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2dc9c642c4cba22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60bdbbdc84f64e9b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb4d7b49c24fb60d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7c8dbe12ab29d381",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5
+  },
+  "right": {
+    "id": "c44e207991cc0062",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b0f25eadd89bee3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b824098b3dd0703d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4a5818c3eb33fdae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a0b3597fb915c02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "94305ee9f9f371f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md"
+              }
+            }
+          },
+          {
+            "id": "50681a1518d334ef",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6cb7e370fdd2527b",
+  "lastOpenFiles": [
+    "Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
+    "Literature Notes"
+  ]
+}
