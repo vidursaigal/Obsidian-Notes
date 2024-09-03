@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
+                "file": "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
+                "file": "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
+                "file": "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md"
+                "file": "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md"
               }
             }
           },
@@ -155,10 +155,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb7e370fdd2527b",
+  "active": "60bdbbdc84f64e9b",
   "lastOpenFiles": [
+    "Fleeting Thoughts",
+    "Literature Notes/Immunology Research",
+    "Literature Notes/Normal People",
+    "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "README.md",
-    "Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "Literature Notes"
   ]
 }
