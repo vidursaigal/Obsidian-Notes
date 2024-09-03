@@ -1,4 +1,4 @@
-![[Pasted image 20240903120159.png]]
+[https://pbs.twimg.com/media/GTL2n5yXcAMrXUa?format=jpg&name=900x900]()
 - Quote from The Anti-Christ
 
 
