@@ -1,4 +1,4 @@
-[https://www.bytedrum.com/posts/art-of-finishing/](Blog P[[]]ost)
+[https://www.bytedrum.com/posts/art-of-finishing/](Blog Post)
 
 1. Define “Done” from the Start
 2. Embrace MVP
