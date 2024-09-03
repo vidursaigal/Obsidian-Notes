@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Thoughts/Nietzsche.md",
+                "file": "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Thoughts/Nietzsche.md",
+                "file": "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Thoughts/Nietzsche.md",
+                "file": "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Thoughts/Nietzsche.md"
+                "file": "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md"
               }
             }
           },
@@ -182,9 +182,9 @@
   },
   "active": "05b7fa93cf964857",
   "lastOpenFiles": [
-    "().md",
-    "Fleeting Thoughts/Nietzsche.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
+    "Fleeting Thoughts/Nietzsche.md",
+    "().md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
     "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
     "Literature Notes/Short Reads/Art of Finishing.md",

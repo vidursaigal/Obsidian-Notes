@@ -1,4 +1,4 @@
-[https://pbs.twimg.com/media/GTL2n5yXcAMrXUa?format=jpg&name=900x900]()
+"The most intelligent men, like the strongest, find their happiness where others would find only disaster: in the labyrinth, in being hard with themselves and with others, in effort; their delight is in self-mastery; in them asceticism becomes second nature, a necessity, an instinct. They regard a difficult task as a privilege; it is to them a recreation to play with burdens that would crush all others."
 - Quote from The Anti-Christ
 
 
