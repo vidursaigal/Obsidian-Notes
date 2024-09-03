@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Short Reads/Art of Finishing.md",
+                "file": "Fleeting Thoughts/Nietzsche.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Short Reads/Art of Finishing.md",
+                "file": "Fleeting Thoughts/Nietzsche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Short Reads/Art of Finishing.md",
+                "file": "Fleeting Thoughts/Nietzsche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Short Reads/Art of Finishing.md"
+                "file": "Fleeting Thoughts/Nietzsche.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "7a2a4342501961d8",
   "lastOpenFiles": [
-    "README.md",
     "Literature Notes/Short Reads/Art of Finishing.md",
+    "Fleeting Thoughts/Nietzsche.md",
+    "README.md",
     "Untitled",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
     "Literature Notes/Short Reads",
