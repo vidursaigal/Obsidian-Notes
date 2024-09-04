@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6319a09d3fdba176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
+                "file": "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
+                "file": "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md"
+                "file": "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md"
               }
             }
           },
@@ -180,10 +192,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "05b7fa93cf964857",
+  "active": "6319a09d3fdba176",
   "lastOpenFiles": [
-    "Fleeting Thoughts/Nietzsche.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
+    "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
+    "Literature Notes/Other Research Papers",
+    "Fleeting Thoughts/Nietzsche.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
     "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "Literature Notes/Short Reads/Art of Finishing.md",
@@ -191,7 +205,6 @@
     "Pasted image 20240903120159.png",
     "().md",
     "README.md",
-    "Untitled",
     "Literature Notes/Short Reads",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst",
     "Literature Notes/Computer Science",
