@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fde6a0d02febafaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Immunology Research/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
+                "file": "Literature Notes/Immunology Research/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
+                "file": "Literature Notes/Immunology Research/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md"
+                "file": "Literature Notes/Immunology Research/Untitled.md"
               }
             }
           },
@@ -192,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6319a09d3fdba176",
+  "active": "fde6a0d02febafaf",
   "lastOpenFiles": [
-    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
     "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
+    "Literature Notes/Immunology Research/Untitled.md",
+    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
     "Literature Notes/Other Research Papers",
     "Fleeting Thoughts/Nietzsche.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
