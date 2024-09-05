@@ -25,38 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Thoughts/Nietzsche.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "05b7fa93cf964857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6319a09d3fdba176",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fleeting Thoughts/Nietzsche.md",
+                "file": "Literature Notes/Short Reads/Art of Finishing.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Thoughts/Nietzsche.md",
+                "file": "Literature Notes/Short Reads/Art of Finishing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Thoughts/Nietzsche.md",
+                "file": "Literature Notes/Short Reads/Art of Finishing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Thoughts/Nietzsche.md"
+                "file": "Literature Notes/Short Reads/Art of Finishing.md"
               }
             }
           },
@@ -192,18 +168,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6319a09d3fdba176",
+  "active": "7a2a4342501961d8",
   "lastOpenFiles": [
+    "Fleeting Thoughts/Nietzsche.md",
+    "Blog.md",
+    "Literature Notes/Short Reads/Art of Finishing.md",
+    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
     "Literature Notes/Immunology Research/A CAR enhancer increases the activity and persistence of CAR T cells.md",
     "Literature Notes/Immunology Research/NaCl enhances CD8+ T cell effector functions in cancer immunotherapy.md",
     "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
     "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
-    "Literature Notes/Short Reads/Art of Finishing.md",
     "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
     "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
-    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
-    "Fleeting Thoughts/Nietzsche.md",
     "Literature Notes/Other Research Papers",
     "Pasted image 20240903120159.png",
     "().md",
