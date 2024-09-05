@@ -8,6 +8,6 @@ Three Main Points of The Article:
 1.) Critique of Scientific Objectivity
 2.) Vision and its Role in the God Trick
 3.) Agency/Nature as a Coyote
-
+		- Not nihilistic, there is meaning in our agency. The world cannot be reduced to matter see: [[Nietzsche]] 
 
 
