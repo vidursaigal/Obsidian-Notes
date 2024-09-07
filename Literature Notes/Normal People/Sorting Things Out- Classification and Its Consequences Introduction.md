@@ -1,0 +1,4 @@
+
+This reading explores the pervasive yet often invisible impact of classification systems in organizing society and everyday life. It discusses how these systems dictate social interactions, shape institutions, and embody ethical decisions. The text critiques the unnoticed power and implications of classifications that organize everything from domestic spaces to global policies.
+
+Bowker and Star argue that classification systems are fundamental to organizing knowledge and social order. They explain that these classification systems are often invisibly embedded in our everyday practices and they usually carry significant but unrecognized ethical and moral implications. They emphasize the role of these systems in shaping social norms and power dynamics. In the examples they provide they often advocate for greater visibility and scrutiny of such systems to address their inherent biases and societal impacts.
