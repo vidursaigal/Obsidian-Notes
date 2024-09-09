@@ -27,7 +27,7 @@ Microwells - BD Rhapsody!, very small wells that cells fall into, then lyse and 
 
 Combinatorial Indexing - in situ, many cells in each well barcoded multiple times
 
-CITE-seq
+CITE-seq - Antibodies will bind to proteins of interest (similar to antibodies that would be used in flow cyto)
 
 
 
