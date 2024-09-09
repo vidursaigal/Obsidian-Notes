@@ -10,6 +10,13 @@ After you get the sequence, you can see up to 20,000 genes that are in the human
 You can cluster within each cluster to get better specificity to find more specific gene expression. 
 
 Original Techniques: 
-Plate-based SMART-seq 
+Plate-based SMART-seq - Use flow to sort one cell into each well of 96-well. Lyse the cell and then do a reverse transcription reaction. You end up with cDNA with PCR handles on both ends. This undergoes amplification.
+
+Able to process a few hundred to max a few thousand cells. Also, very expensive. 
+
+New Techniques:
+DropSeq - Uses microfluidics, very small droplets. One bead and one cell in each of the droplets. Each bead has many barcoded oligo-dTs, which allows it to capture the cell's RNA., 
+
+
 
 
