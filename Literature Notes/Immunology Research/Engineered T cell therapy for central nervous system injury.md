@@ -8,7 +8,7 @@ https://www.nature.com/articles/s41586-024-07906-y
 
 1. **Engineered T Cells:** Researchers engineered transiently autoimmune T cells (ETAs) that demonstrated neuroprotective efficacy in CNS injury models, primarily by modulating myeloid cells via IFNγ (see: [[Interferon gamma (IFN-γ)]]).
 2. **Antigen Specificity:** These ETAs specifically targeted antigens related to CNS injuries, guiding their migration and enhancing their neuroprotective effects. The study confirmed the antigen specificity of injury-associated T cells through the recognition of myelin peptides.
-3. **Neuroprotection Mechanisms:** The neuroprotective effects were partially attributed to the regulation of inflammation at the injury site, reducing macrophage infiltration and promoting a shift in the microglial population towards less inflammatory phenotypes.
+3. **Neuroprotection Mechanisms:** The neuroprotective effects were partially attributed to the regulation of inflammation at the injury site, reducing macrophage infiltration and promoting a shift in the microglial population toward less inflammatory phenotypes.
 
 **Implications:** The findings suggest that engineered T cells can be a viable strategy for treating CNS injuries by leveraging the body's immune response. The study's results pave the way for future development of T cell-based therapies for CNS injuries, highlighting the potential to harness specific T cell populations for clinical benefit. Moreover, the transient nature of the engineered T cell responses offers a strategy to minimize potential adverse autoimmune responses.
 
