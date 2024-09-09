@@ -27,7 +27,8 @@ Microwells - BD Rhapsody!, very small wells that cells fall into, then lyse and 
 
 Combinatorial Indexing - in situ, many cells in each well barcoded multiple times
 
-CITE-seq - Antibodies will bind to proteins of interest (similar to antibodies that would be used in flow cyto)
+CITE-seq - Antibodies will bind to proteins of interest (similar to antibodies that would be used in flow cytometry; instead of a fluorophore, you conjugate on a DNA barcode). The DNA barcode has a PCR handle on the end and a poly-A tail to allow capture by single-cell sequencing methods. 
+	Enables a multi-omics approach where you can analyze protein and RNA per cell. 
 
 
 
