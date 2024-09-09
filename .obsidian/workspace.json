@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "af11efc8faaa3acd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
+                "file": "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
+                "file": "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md"
+                "file": "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md"
               }
             }
           },
@@ -155,8 +168,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cb7e370fdd2527b",
+  "active": "af11efc8faaa3acd",
   "lastOpenFiles": [
+    "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
+    "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
+    "Video Notes",
     "Literature Notes/Normal People/The Overfitted Brain- Dreams Evolved to Assist Generalization.md",
     "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
     "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
@@ -164,7 +180,6 @@
     "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
     "Literature Notes/Immunology Research/A CAR enhancer increases the activity and persistence of CAR T cells.md",
     "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
-    "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
     "Literature Notes/Immunology Research/Mis-spliced transcripts generate de novo proteins in TDP-43–related ALS & FTD.md",
     "Literature Notes/Immunology Research/NaCl enhances CD8+ T cell effector functions in cancer immunotherapy.md",
     "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
