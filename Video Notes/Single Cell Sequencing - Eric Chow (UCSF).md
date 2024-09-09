@@ -25,7 +25,9 @@ Can sequence thousands, tens of thousands of cells.
 
 Microwells - BD Rhapsody!, very small wells that cells fall into, then lyse and do the needed reactions
 
-Combinatorial Indexing - 
+Combinatorial Indexing - in situ, many cells in each well barcoded multiple times
+
+CITE-seq
 
 
 
