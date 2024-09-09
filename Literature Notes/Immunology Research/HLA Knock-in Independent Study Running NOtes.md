@@ -7,3 +7,7 @@ use endogenous codons or optimized codons, folding differences, (T-SCAN uses opt
 
 Connors Project:
 Using TRUST4 to see TCRs? -> 10x VDJ much better  (CSF uses 10VDJ, TRUST4 for PBMC)
+
+CD74 -> highly enriched in the CSF
+
+SLAMF7 - highly expressed on supressive CD8+ T-cells
