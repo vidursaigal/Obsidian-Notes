@@ -11,3 +11,7 @@ Using TRUST4 to see TCRs? -> 10x VDJ much better  (CSF uses 10VDJ, TRUST4 for PB
 CD74 -> highly enriched in the CSF
 
 SLAMF7 - highly expressed on supressive CD8+ T-cells
+
+Granzyme K vs Granzyme B 
+
+What is GLIPH2 for TCRs?
