@@ -2,7 +2,7 @@ https://www.nature.com/articles/s41586-024-07906-y
 
 **Background:**  Explores the potential of engineered T cell therapy to treat traumatic injuries to the central nervous system (CNS), which currently lack effective treatments. Millions suffer from CNS injuries annually with no effective treatment. Previous studies have shown that the CNS injury site is populated by various peripheral immune cells, including T cells, but the specific roles and antigen specificity of these cells at the site have been unclear.
 
-**Methodology:** The study utilized single-cell RNA sequencing to examine the clonal expansion of T cells at CNS injury sites in mice and humans. Researchers identified CD4+ T cell clones in mice that exhibited antigen specificity towards myelin and neuronal proteins.
+**Methodology:** The study utilized single-cell RNA (see: [[Single Cell Sequencing - Eric Chow (UCSF)]] ) sequencing to examine the clonal expansion of T cells at CNS injury sites in mice and humans. Researchers identified CD4+ T cell clones in mice that exhibited antigen specificity towards myelin and neuronal proteins.
 
 **Key Findings:**
 
