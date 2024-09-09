@@ -23,6 +23,11 @@ Can sequence thousands, tens of thousands of cells.
 
 10x Genomics - very similar to dropseq except 90% of droplets had only one bead. Additionally, reverse transcription happened within the droplets. Can sequence up to 25,000 cells in each of the lanes of the chip. Each chip has 8 lanes on it. 
 
+Microwells - BD Rhapsody!, very small wells that cells fall into, then lyse and do the needed reactions
+
+Combinatorial Indexing - 
+
+
 
 
 
