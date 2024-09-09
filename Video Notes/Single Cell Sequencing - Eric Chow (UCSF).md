@@ -15,7 +15,14 @@ Plate-based SMART-seq - Use flow to sort one cell into each well of 96-well. Lys
 Able to process a few hundred to max a few thousand cells. Also, very expensive. 
 
 New Techniques:
-DropSeq - Uses microfluidics, very small droplets. One bead and one cell in each of the droplets. Each bead has many barcoded oligo-dTs, which allows it to capture the cell's RNA., 
+DropSeq - Uses microfluidics, very small droplets. Uses oil and emulsion to make droplets. One bead and one cell in each of the droplets. Each bead has many barcoded oligo-dTs, which allows it to capture the cell's RNA. It also has a unique identification barcode. Do a reverse transcription reaction on each of the beads. Then amplify with PCR. 
+
+Problem with this method is that only a small fraction of droplets contained one bead and one cell (2%).
+
+Can sequence thousands, tens of thousands of cells. 
+
+10x Genomics - very similar to dropseq except 90% of droplets had only one bead. Additionally, reverse transcription happened within the droplets. Can sequence up to 25,000 cells in each of the lanes of the chip. Each chip has 8 lanes on it. 
+
 
 
 
