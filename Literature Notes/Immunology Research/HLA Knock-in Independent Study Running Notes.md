@@ -6,9 +6,19 @@ use endogenous codons or optimized codons, folding differences, (T-SCAN uses opt
 
 
 
-1.)
+1.) Literature Search of what people have used - find the nucleotide sequence of the HLA molecule; use connors backbone or our TCR backbone - uses EF1a promotor, needs a 5' end -> HLA sequence tagGFP_lenti ; ->idt eblocks, gblock.
+
+Must have: AO301
+
+Nice to have: AO201
+
+Nice to have: B3501
+
+
+
 2.)
 3.)
+4.)
 
 
 
