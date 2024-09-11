@@ -1,31 +1,31 @@
 {
   "main": {
-    "id": "332465745d5607cf",
+    "id": "33c40c01d4ce0164",
     "type": "split",
     "children": [
       {
-        "id": "530244fe878a4173",
+        "id": "fa2d330f9698ef80",
         "type": "tabs",
         "children": [
           {
-            "id": "6cb7e370fdd2527b",
+            "id": "130c7332c1503012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
+                "file": "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af11efc8faaa3acd",
+            "id": "1cc26875b88e00da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
+                "file": "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "b677c962dbd860c9",
+    "id": "07f5d5d002317206",
     "type": "split",
     "children": [
       {
-        "id": "d2dc9c642c4cba22",
+        "id": "8ebd6e62a9001c8f",
         "type": "tabs",
         "children": [
           {
-            "id": "60bdbbdc84f64e9b",
+            "id": "a360fa09da5e71f8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "bb4d7b49c24fb60d",
+            "id": "03fed220026db4e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "7c8dbe12ab29d381",
+            "id": "691b1979c7b99eac",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 300
   },
   "right": {
-    "id": "c44e207991cc0062",
+    "id": "85a52c593693614c",
     "type": "split",
     "children": [
       {
-        "id": "9b0f25eadd89bee3",
+        "id": "fc85a5621fba9c90",
         "type": "tabs",
         "children": [
           {
-            "id": "b824098b3dd0703d",
+            "id": "9513f9527556f8f2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
+                "file": "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,19 @@
             }
           },
           {
-            "id": "4a5818c3eb33fdae",
+            "id": "53077d9a339f28b6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
+                "file": "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9a0b3597fb915c02",
+            "id": "6873b46ab9a22fe6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,17 +133,17 @@
             }
           },
           {
-            "id": "94305ee9f9f371f1",
+            "id": "9c67b5fd3ca8e43b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md"
+                "file": "Literature Notes/Immunology Research/HLA Transduction Running Notes.md"
               }
             }
           },
           {
-            "id": "50681a1518d334ef",
+            "id": "2bbf632745193ee1",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -168,43 +168,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af11efc8faaa3acd",
+  "active": "1cc26875b88e00da",
   "lastOpenFiles": [
-    "Literature Notes/Immunology Research/HLA Knock-in Independent Study Running NOtes.md",
-    "Literature Notes/Immunology Research/Interleukin-2 (IL-2).md",
-    "Literature Notes/Immunology Research/Cytokines.md",
-    "Literature Notes/Immunology Research/Interferon gamma (IFN-γ).md",
-    "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
+    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
     "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
-    "Video Notes",
-    "Literature Notes/Normal People/The Overfitted Brain- Dreams Evolved to Assist Generalization.md",
-    "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
-    "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
-    "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
-    "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
-    "Literature Notes/Immunology Research/A CAR enhancer increases the activity and persistence of CAR T cells.md",
-    "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
-    "Literature Notes/Immunology Research/Mis-spliced transcripts generate de novo proteins in TDP-43–related ALS & FTD.md",
-    "Literature Notes/Immunology Research/NaCl enhances CD8+ T cell effector functions in cancer immunotherapy.md",
+    "Literature Notes/Immunology Research/Cytokines.md",
     "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
-    "Fleeting Thoughts/Nietzsche.md",
-    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
+    "Literature Notes/Immunology Research/NaCl enhances CD8+ T cell effector functions in cancer immunotherapy.md",
+    "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
+    "Literature Notes/Immunology Research/Interleukin-2 (IL-2).md",
+    "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
+    "Literature Notes/Immunology Research/Interferon gamma (IFN-γ).md",
+    "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
+    "Literature Notes/Immunology Research/HLA Knock-in Independent Study Running NOtes.md",
+    "Literature Notes/Immunology Research/Mis-spliced transcripts generate de novo proteins in TDP-43–related ALS & FTD.md",
+    "Video Notes",
+    "README.md",
     "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
     "Literature Notes/Short Reads/Art of Finishing.md",
-    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
-    "Literature Notes/Immunology Research/Antitumor progenitor exhausted CD8+ T cells are sustained by TCR engagement.md",
-    "README.md",
-    "Blog.md",
-    "2024-09-05.md",
-    "Literature Notes/Other Research Papers",
-    "Pasted image 20240903120159.png",
-    "().md",
     "Literature Notes/Short Reads",
-    "Literature Notes/Behave - The Biology of Humans at our Best and Worst",
-    "Literature Notes/Computer Science",
-    "Fleeting Thoughts",
-    "Literature Notes/Immunology Research",
+    "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
+    "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
+    "Literature Notes/Other Research Papers",
+    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
+    "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
+    "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "Literature Notes/Normal People",
-    "Literature Notes"
+    "Literature Notes/Immunology Research/Antitumor progenitor exhausted CD8+ T cells are sustained by TCR engagement.md",
+    "Literature Notes/Immunology Research/A CAR enhancer increases the activity and persistence of CAR T cells.md",
+    "Literature Notes/Immunology Research",
+    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
+    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
+    "Literature Notes/Behave - The Biology of Humans at our Best and Worst",
+    "Fleeting Thoughts/Nietzsche.md",
+    "Fleeting Thoughts"
   ]
 }
