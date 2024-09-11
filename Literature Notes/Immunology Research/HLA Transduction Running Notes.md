@@ -1,4 +1,4 @@
-Astrocyte cell line with A3 seperately and A2 seperately -> RNAseq after the knockdown of the astrocytes, which allows us to see if the cryptic peptides are expressed 
+Astrocyte cell line with A3 separately and A2 separately -> RNAseq after the knockdown of the astrocytes, which allows us to see if the cryptic peptides are expressed 
 
 Start the construct ASAP
 
