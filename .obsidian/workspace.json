@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
+                "file": "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
+                "file": "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
+                "file": "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Immunology Research/HLA Transduction Running Notes.md"
+                "file": "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md"
               }
             }
           },
@@ -170,10 +170,11 @@
   },
   "active": "1cc26875b88e00da",
   "lastOpenFiles": [
+    "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
+    "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter Two - One Second Before.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
-    "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
     "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
     "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
     "Literature Notes/Immunology Research/Cytokines.md",
@@ -182,7 +183,6 @@
     "Literature Notes/Immunology Research/Interleukin-2 (IL-2).md",
     "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
     "Literature Notes/Immunology Research/Interferon gamma (IFN-γ).md",
-    "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
     "Literature Notes/Immunology Research/HLA Knock-in Independent Study Running NOtes.md",
     "Literature Notes/Immunology Research/Mis-spliced transcripts generate de novo proteins in TDP-43–related ALS & FTD.md",
     "Video Notes",
