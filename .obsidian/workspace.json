@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cc26875b88e00da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
+                "file": "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
+                "file": "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
+                "file": "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md"
+                "file": "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md"
               }
             }
           },
@@ -168,19 +155,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cc26875b88e00da",
+  "active": "130c7332c1503012",
   "lastOpenFiles": [
-    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
-    "Literature Notes/Normal People/The Normal and the Pathological.md",
-    "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
+    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
     "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md",
+    "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
+    "Literature Notes/Normal People/The Normal and the Pathological.md",
+    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
+    "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
     "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
     "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter Two - One Second Before.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
-    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
     "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
     "Literature Notes/Immunology Research/Cytokines.md",
     "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
@@ -198,7 +186,6 @@
     "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
     "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
     "Literature Notes/Other Research Papers",
-    "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "Literature Notes/Normal People",
     "Literature Notes/Immunology Research",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst",
