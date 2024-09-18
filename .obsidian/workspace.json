@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cc26875b88e00da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
+                "file": "Fleeting Thoughts/Existential Crisis.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
+                "file": "Fleeting Thoughts/Existential Crisis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
+                "file": "Fleeting Thoughts/Existential Crisis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md"
+                "file": "Fleeting Thoughts/Existential Crisis.md"
               }
             }
           },
@@ -168,37 +155,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cc26875b88e00da",
+  "active": "130c7332c1503012",
   "lastOpenFiles": [
-    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
+    "Fleeting Thoughts/Motivation.md",
+    "Fleeting Thoughts/Existential Crisis.md",
+    "Fleeting Thoughts/Nietzsche.md",
+    "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
+    "Literature Notes/Other Research Papers/A high-throughput phenotypic screen combined with an ultra-large-scale deep learning-based virtual screening reveals novel scaffolds of antibacterial compounds.md",
+    "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
+    "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
+    "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
+    "Literature Notes/Short Reads/Art of Finishing.md",
+    "Literature Notes/Immunology Research/Mis-spliced transcripts generate de novo proteins in TDP-43–related ALS & FTD.md",
+    "Literature Notes/Immunology Research/NaCl enhances CD8+ T cell effector functions in cancer immunotherapy.md",
+    "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
+    "Literature Notes/Immunology Research/Antitumor progenitor exhausted CD8+ T cells are sustained by TCR engagement.md",
+    "Images/Pasted image 20240916162537.png",
+    "Images/Pasted image 20240916162512.png",
+    "Images/Pasted image 20240916162417.png",
+    "Images/Pasted image 20240916162402.png",
+    "Images/Pasted image 20240916162306.png",
+    "Images/Pasted image 20240916162050.png",
+    "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
+    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
+    "Images",
+    "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
     "Literature Notes/Normal People/The Normal and the Pathological.md",
     "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
     "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md",
-    "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
+    "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
+    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
     "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
     "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter Two - One Second Before.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
-    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
-    "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
-    "Literature Notes/Immunology Research/Cytokines.md",
-    "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
-    "Literature Notes/Immunology Research/NaCl enhances CD8+ T cell effector functions in cancer immunotherapy.md",
-    "Literature Notes/Immunology Research/Interleukin-2 (IL-2).md",
-    "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
-    "Literature Notes/Immunology Research/Interferon gamma (IFN-γ).md",
-    "Literature Notes/Immunology Research/HLA Knock-in Independent Study Running NOtes.md",
-    "Literature Notes/Immunology Research/Mis-spliced transcripts generate de novo proteins in TDP-43–related ALS & FTD.md",
     "Video Notes",
-    "README.md",
-    "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
-    "Literature Notes/Short Reads/Art of Finishing.md",
     "Literature Notes/Short Reads",
-    "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
-    "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
     "Literature Notes/Other Research Papers",
-    "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "Literature Notes/Normal People",
     "Literature Notes/Immunology Research",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst",
