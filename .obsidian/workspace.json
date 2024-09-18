@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Thoughts/Existential Crisis.md",
+                "file": "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Thoughts/Existential Crisis.md",
+                "file": "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Thoughts/Existential Crisis.md",
+                "file": "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Thoughts/Existential Crisis.md"
+                "file": "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md"
               }
             }
           },
@@ -157,15 +157,19 @@
   },
   "active": "130c7332c1503012",
   "lastOpenFiles": [
-    "Fleeting Thoughts/Motivation.md",
-    "Fleeting Thoughts/Existential Crisis.md",
-    "Fleeting Thoughts/Nietzsche.md",
+    "Images/Pasted image 20240918184433.png",
+    "Images/Pasted image 20240918184356.png",
     "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
+    "Fleeting Thoughts/Motivation.md",
+    "Fleeting Thoughts/Nietzsche.md",
+    "Fleeting Thoughts/Existential Crisis.md",
+    "Literature Notes/Short Reads/Art of Finishing.md",
+    "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
+    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
+    "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
     "Literature Notes/Other Research Papers/A high-throughput phenotypic screen combined with an ultra-large-scale deep learning-based virtual screening reveals novel scaffolds of antibacterial compounds.md",
     "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
     "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
-    "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
-    "Literature Notes/Short Reads/Art of Finishing.md",
     "Literature Notes/Immunology Research/Mis-spliced transcripts generate de novo proteins in TDP-43–related ALS & FTD.md",
     "Literature Notes/Immunology Research/NaCl enhances CD8+ T cell effector functions in cancer immunotherapy.md",
     "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
@@ -176,8 +180,6 @@
     "Images/Pasted image 20240916162402.png",
     "Images/Pasted image 20240916162306.png",
     "Images/Pasted image 20240916162050.png",
-    "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
-    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
     "Images",
     "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
     "Literature Notes/Normal People/The Normal and the Pathological.md",
@@ -189,7 +191,6 @@
     "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter Two - One Second Before.md",
-    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
     "Video Notes",
     "Literature Notes/Short Reads",
     "Literature Notes/Other Research Papers",
