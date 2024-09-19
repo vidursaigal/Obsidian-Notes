@@ -9,6 +9,9 @@ Main Arguments:
 6. Pathology is defined not only through objective measurements but also through the patient’s experience and clinical practice. There is no purely "objective pathology," as the concept of disease is always tied to values and individual experiences.
 
 
+In Class Discussion Notes Below:
+
+
 Apply this weeks reading to categories/classifications from last week? 
 
 
