@@ -12,5 +12,4 @@ psychologists to make generalizable claims about groups.
 3. Quetelet’s deterministic view of human attributes, as deviations from an ideal average, was
 later transformed by Galton into a focus on natural variation and inherited differences. Galton
 emphasized the evolutionary significance of variation.
-4. Quetelet believed that human and social phenomena were governed by deterministic law. His
-statistical approach implied that large-scale regularities revealed underlying natural laws.
+4. Quetelet believed that human and social phenomena were governed by deterministic law. His statistical approach implied that large-scale regularities revealed underlying natural laws.
