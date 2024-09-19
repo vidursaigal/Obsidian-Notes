@@ -2,10 +2,6 @@ The article examines the development of the concept of norms in the works of Can
 
 Main Arguments:
 1. Canguilhem distinguishes between normality and normativity. He argues that living organisms are not passive recipients of norms; instead, they actively create and modify norms to adapt to new situations. His work in medical philosophy critiques the reduction of health and disease in purely quantitative terms.
-2. Foucault builds on Canguilhem’s ideas. He examines how medical norms, expanded to
-regulate social behavior and contribute to broader mechanisms of control. Foucault's concept
-of "biopower" ties medical knowledge to political authority.
-3. Both thinkers reject the positivist history of medicine. They believe that medical progress is not
-a linear, objective advance. Instead, they focus on discontinuities and the role of power in
-shaping medical knowledge.
+2. Foucault builds on Canguilhem’s ideas. He examines how medical norms, expanded to regulate social behavior and contribute to broader mechanisms of control. Foucault's concept of "biopower" ties medical knowledge to political authority.
+3. Both thinkers reject the positivist history of medicine. They believe that medical progress is not a linear, objective advance. Instead, they focus on discontinuities and the role of power in shaping medical knowledge.
 4. Canguilhem and Foucault both address the historical development of social norms. Foucault’s notion of biopolitics plays a key role in understanding how modern states manage populations through health policies.

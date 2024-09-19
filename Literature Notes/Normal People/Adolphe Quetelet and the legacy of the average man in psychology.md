@@ -2,14 +2,7 @@ https://pubmed.ncbi.nlm.nih.gov/34516191/
 The article is a review of Adolphe Quetelet’s concept of the "average man" and his application of the Law of Error to psychological research. Quetelet applied statistical methods to human characteristics, treating deviations from the average as "errors." Quetelet’s work paved the way for later psychological methodologies that emphasized population-level analyses. Psychologists embraced Quetelet’s focus on averages, and his view of individuals as deviations from an ideal "average" human type.
 
 Main Arguments:
-1. Quetelet extended the Law of Error from astronomy to human and social phenomena,
-developing the concept of the "average man" as an idealized being whose deviations represented
-errors. This idea was heavily influential during the late 19th and early 20th centuries. It helped
-shape psychology as we know it today.
-2. Psychologists adopted a Neo-Galtonian approach, combining Galton’s population-level
-analyses with experimental manipulation and statistical tools like ANOVA. This allowed
-psychologists to make generalizable claims about groups.
-3. Quetelet’s deterministic view of human attributes, as deviations from an ideal average, was
-later transformed by Galton into a focus on natural variation and inherited differences. Galton
-emphasized the evolutionary significance of variation.
+1. Quetelet extended the Law of Error from astronomy to human and social phenomena, developing the concept of the "average man" as an idealized being whose deviations represented errors. This idea was heavily influential during the late 19th and early 20th centuries. It helped shape psychology as we know it today.
+2. Psychologists adopted a Neo-Galtonian approach, combining Galton’s population-level analyses with experimental manipulation and statistical tools like ANOVA. This allowed psychologists to make generalizable claims about groups.
+3. Quetelet’s deterministic view of human attributes, as deviations from an ideal average, was later transformed by Galton into a focus on natural variation and inherited differences. Galton emphasized the evolutionary significance of variation.
 4. Quetelet believed that human and social phenomena were governed by deterministic law. His statistical approach implied that large-scale regularities revealed underlying natural laws.
