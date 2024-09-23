@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Normal People/Slouch  Posture - Panic  in Modern America.md",
+                "file": "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d8645b20c0b65a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Video Notes/Complete single-cell RNAseq analysis walkthrough - Advanced introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Normal People/Slouch  Posture - Panic  in Modern America.md",
+                "file": "Video Notes/Complete single-cell RNAseq analysis walkthrough - Advanced introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Normal People/Slouch  Posture - Panic  in Modern America.md",
+                "file": "Video Notes/Complete single-cell RNAseq analysis walkthrough - Advanced introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Normal People/Slouch  Posture - Panic  in Modern America.md"
+                "file": "Video Notes/Complete single-cell RNAseq analysis walkthrough - Advanced introduction.md"
               }
             }
           },
@@ -155,20 +168,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "130c7332c1503012",
+  "active": "6d8645b20c0b65a4",
   "lastOpenFiles": [
+    "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
+    "Video Notes/Complete single-cell RNAseq analysis walkthrough - Advanced introduction.md",
+    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
+    "Literature Notes/Short Reads/Art of Finishing.md",
+    "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
+    "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
+    "Literature Notes/Normal People/Slouch Posture - Panic in Modern America.md",
     "Literature Notes/Other Research Papers/How to Build the Virtual Cell with Artificial Intelligence - Priorities and Opportunities.md",
     "Literature Notes/Normal People/Slouch  Posture - Panic  in Modern America.md",
-    "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
     "Images/Pasted image 20240918184433.png",
     "Images/Pasted image 20240918184356.png",
     "Fleeting Thoughts/Motivation.md",
     "Fleeting Thoughts/Nietzsche.md",
     "Fleeting Thoughts/Existential Crisis.md",
-    "Literature Notes/Short Reads/Art of Finishing.md",
-    "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
-    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
-    "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
     "Literature Notes/Other Research Papers/A high-throughput phenotypic screen combined with an ultra-large-scale deep learning-based virtual screening reveals novel scaffolds of antibacterial compounds.md",
     "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
     "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
@@ -190,8 +205,6 @@
     "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
     "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
-    "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
-    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
     "Video Notes",
     "Literature Notes/Short Reads",
     "Literature Notes/Other Research Papers",
