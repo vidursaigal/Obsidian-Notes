@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Computer Science/Runtime Code Snippets & Recurrences.md",
+                "file": "Literature Notes/Computer Science/Stacks & Queues.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Computer Science/Runtime Code Snippets & Recurrences.md",
+                "file": "Literature Notes/Computer Science/Stacks & Queues.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Computer Science/Runtime Code Snippets & Recurrences.md",
+                "file": "Literature Notes/Computer Science/Stacks & Queues.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Computer Science/Runtime Code Snippets & Recurrences.md"
+                "file": "Literature Notes/Computer Science/Stacks & Queues.md"
               }
             }
           },
@@ -170,8 +170,9 @@
   },
   "active": "6d8645b20c0b65a4",
   "lastOpenFiles": [
-    "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
     "Literature Notes/Computer Science/Runtime Code Snippets & Recurrences.md",
+    "Literature Notes/Computer Science/Stacks & Queues.md",
+    "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
     "Literature Notes/Normal People/Slouch Posture - Panic in Modern America.md",
     "Video Notes/Complete single-cell RNAseq analysis walkthrough - Advanced introduction.md",
     "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
@@ -204,7 +205,6 @@
     "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
     "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md",
     "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
-    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
     "Video Notes",
     "Literature Notes/Short Reads",
     "Literature Notes/Other Research Papers",
