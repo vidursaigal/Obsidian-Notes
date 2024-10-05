@@ -40,9 +40,10 @@
 
 ### Overview of Immune System
 - The immune system consists of effector cells and molecules that protect the body from infectious agents and toxins.
+	-  An effector cell is any of various types of cell that actively responds to a stimulus and effects some change.
 - Both **innate** and **adaptive** immune responses rely on the activities of **white blood cells (leukocytes)**.
 - Most immune cells arise from the **bone marrow**, though some (e.g., **microglia** of the CNS) originate from the **yolk sac** or **fetal liver** during embryonic development.
-  - These tissue-resident cells seed tissues before birth and self-renew throughout life.
+- These tissue-resident cells seed tissues before birth and self-renew throughout life.
 
 ### Hematopoietic Stem Cells (HSCs)
 - After birth, all blood cell types (red blood cells, platelets, and leukocytes) derive from **hematopoietic stem cells (HSCs)** in the bone marrow.
@@ -329,4 +330,6 @@
   - **Suppressing unwanted responses** (e.g., autoimmunity, allergies).
   - **Stimulating responses** for **disease prevention** (e.g., vaccination).
 - **Research Focus**: To regulate immune responses for therapeutic purposes, including disease prevention and treatment.
+
+
 
