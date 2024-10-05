@@ -61,14 +61,56 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bf576b5ebb15cb8b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20241005174708.png"
+              }
+            }
+          },
+          {
+            "id": "9d1b15511bf6b9ce",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20241005174732.png"
+              }
+            }
+          },
+          {
+            "id": "ce0b270dff81ca5e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Pasted image 20241005181015.png"
+              }
+            }
+          },
+          {
+            "id": "838debfd5d153df8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -134,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md"
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md"
               }
             }
           },
@@ -204,13 +246,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a6515915b397257",
+  "active": "838debfd5d153df8",
   "lastOpenFiles": [
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
+    "Images/Pasted image 20241005174708.png",
+    "Images/Pasted image 20241005181015.png",
+    "Images/Pasted image 20241005174732.png",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+    "Images/Pasted image 20241005173725.png",
+    "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
+    "Literature Notes/Immunology Research/Interferon gamma (IFN-γ).md",
+    "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
+    "Literature Notes/Immunology Research/Cytokines.md",
+    "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
+    "Literature Notes/Immunology Research/Antitumor progenitor exhausted CD8+ T cells are sustained by TCR engagement.md",
+    "Literature Notes/Immunology Research/A CAR enhancer increases the activity and persistence of CAR T cells.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Innate Immunity - The First Lines of Defense.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
     "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition",
     "Literature Notes/Computer Science/Stacks & Queues.md",
@@ -226,21 +280,10 @@
     "Literature Notes/Normal People/Slouch  Posture - Panic  in Modern America.md",
     "Images/Pasted image 20240918184433.png",
     "Images/Pasted image 20240918184356.png",
-    "Fleeting Thoughts/Motivation.md",
-    "Fleeting Thoughts/Nietzsche.md",
-    "Fleeting Thoughts/Existential Crisis.md",
-    "Literature Notes/Other Research Papers/A high-throughput phenotypic screen combined with an ultra-large-scale deep learning-based virtual screening reveals novel scaffolds of antibacterial compounds.md",
-    "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
-    "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
-    "Literature Notes/Immunology Research/Mis-spliced transcripts generate de novo proteins in TDP-43–related ALS & FTD.md",
-    "Literature Notes/Immunology Research/NaCl enhances CD8+ T cell effector functions in cancer immunotherapy.md",
-    "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
     "Images/Pasted image 20240916162537.png",
     "Images/Pasted image 20240916162512.png",
     "Images/Pasted image 20240916162417.png",
     "Images/Pasted image 20240916162402.png",
-    "Images/Pasted image 20240916162306.png",
-    "Images/Pasted image 20240916162050.png",
     "Images",
     "Video Notes",
     "Literature Notes/Short Reads",
