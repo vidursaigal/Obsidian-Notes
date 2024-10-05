@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a6515915b397257",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md"
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md"
               }
             }
           },
@@ -192,10 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d595bd6c549865e2",
+  "active": "5a6515915b397257",
   "lastOpenFiles": [
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Innate Immunity - The First Lines of Defense.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
     "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
@@ -222,7 +235,6 @@
     "Literature Notes/Immunology Research/Mis-spliced transcripts generate de novo proteins in TDP-43–related ALS & FTD.md",
     "Literature Notes/Immunology Research/NaCl enhances CD8+ T cell effector functions in cancer immunotherapy.md",
     "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
-    "Literature Notes/Immunology Research/Antitumor progenitor exhausted CD8+ T cells are sustained by TCR engagement.md",
     "Images/Pasted image 20240916162537.png",
     "Images/Pasted image 20240916162512.png",
     "Images/Pasted image 20240916162417.png",
