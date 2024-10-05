@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Computer Science/Euclid’s Algorithm for Greatest Common Divisor I.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Computer Science/Euclid’s Algorithm for Greatest Common Divisor I.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Computer Science/Euclid’s Algorithm for Greatest Common Divisor I.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Computer Science/Euclid’s Algorithm for Greatest Common Divisor I.md"
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md"
               }
             }
           },
@@ -170,10 +170,12 @@
   },
   "active": "6d8645b20c0b65a4",
   "lastOpenFiles": [
-    "Literature Notes/Computer Science/Runtime Code Snippets & Recurrences.md",
-    "Literature Notes/Computer Science/Euclid’s Algorithm for Greatest Common Divisor I.md",
-    "Literature Notes/Computer Science/Stacks & Queues.md",
     "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition",
+    "Literature Notes/Computer Science/Stacks & Queues.md",
+    "Literature Notes/Computer Science/Runtime Code Snippets & Recurrences.md",
+    "Literature Notes/Computer Science/Euclid’s Algorithm for Greatest Common Divisor.md",
     "Literature Notes/Normal People/Slouch Posture - Panic in Modern America.md",
     "Video Notes/Complete single-cell RNAseq analysis walkthrough - Advanced introduction.md",
     "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
@@ -204,7 +206,6 @@
     "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
     "Literature Notes/Normal People/The Normal and the Pathological.md",
     "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
-    "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md",
     "Video Notes",
     "Literature Notes/Short Reads",
     "Literature Notes/Other Research Papers",
