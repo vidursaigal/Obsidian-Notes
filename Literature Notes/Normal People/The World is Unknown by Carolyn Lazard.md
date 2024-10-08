@@ -1,0 +1,6 @@
+The essay critically explores chronic illness with a focus on the limitations of biomedicine and alternative healing practices. Lazard discusses their ambivalent relationship with biomedicine due to its rigid focus on disease management and cure. She then contrasts this with her experience with alternative modalities that emphasize healing as a transformative process. Lazard reflects on how belief plays a pivotal role in healing. She discusses the concept of mind-body connections and how biomedicine often dismisses or sidelines this aspect (arguable). Throughout the essay, Lazard questions the authority of biomedicine in controlling bodies and its dismissal of alternative modes of care.
+
+Main Arguments:
+1. Lazard argues that biomedicine's dogma on cure often excludes patients from actively participating in their care, reducing their experience to a mechanical system of disease management. Alternative medicine, with its holistic approaches, offers more space for patient belief and subjective healing.
+2. Healing is presented as a non-linear and transformative process that contrasts with biomedicine’s focus on finding a cure or managing symptoms.
+3. The essay highlights how belief systems, whether affirmations or meditative practices, play a significant role in chronic illness management, despite being marginalized by mainstream medicine.

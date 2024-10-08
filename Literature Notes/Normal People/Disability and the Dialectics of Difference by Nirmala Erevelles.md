@@ -1,0 +1,6 @@
+Erevelles explores disability as a social and ideological construct that is deeply intertwined with capitalist exploitation and systems of oppression such as race, class, and gender. She challenges the prevalent biological and individualistic models of disability. She argues that these traditional definitions of disability reinforce capitalist hierarchies by marking certain bodies as "deviant." Erevelles goes on to argue that disabled individuals are systematically marginalized through economic and social mechanisms–especially within capitalist societies that value productivity and efficiency above all.
+
+Main Arguments:
+1. Erevelles argues that disability has historically functioned as a tool for justifying social hierarchies. It has been used ideologically to legitimize inequalities.
+2. Under capitalism, the productivity demands of labor alienate disabled individuals–who are excluded from meaningful participation in the labor force. This exclusion reinforces their social marginalization.
+3. Erevelles positions diability as inherently intertwined with other axes of oppression like race, gender, and class. It is argued that disability cannot be understood in isolation but must be examined within a broader matrix.

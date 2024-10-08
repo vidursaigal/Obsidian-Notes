@@ -108,9 +108,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "94f7089efe5e1c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95da9360616ac925",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -176,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+                "file": "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+                "file": "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md"
+                "file": "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md"
               }
             }
           },
@@ -246,13 +270,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "838debfd5d153df8",
+  "active": "95da9360616ac925",
   "lastOpenFiles": [
+    "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
+    "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md",
+    "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md",
+    "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
+    "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
+    "Literature Notes/Normal People/Slouch Posture - Panic in Modern America.md",
+    "Literature Notes/Normal People/The Normal and the Pathological.md",
+    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
+    "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
     "Images/Pasted image 20241005174708.png",
     "Images/Pasted image 20241005181015.png",
     "Images/Pasted image 20241005174732.png",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
     "Images/Pasted image 20241005173725.png",
     "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
     "Literature Notes/Immunology Research/Interferon gamma (IFN-γ).md",
@@ -270,14 +303,6 @@
     "Literature Notes/Computer Science/Stacks & Queues.md",
     "Literature Notes/Computer Science/Runtime Code Snippets & Recurrences.md",
     "Literature Notes/Computer Science/Euclid’s Algorithm for Greatest Common Divisor.md",
-    "Literature Notes/Normal People/Slouch Posture - Panic in Modern America.md",
-    "Video Notes/Complete single-cell RNAseq analysis walkthrough - Advanced introduction.md",
-    "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
-    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
-    "Literature Notes/Short Reads/Art of Finishing.md",
-    "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
-    "Literature Notes/Other Research Papers/How to Build the Virtual Cell with Artificial Intelligence - Priorities and Opportunities.md",
-    "Literature Notes/Normal People/Slouch  Posture - Panic  in Modern America.md",
     "Images/Pasted image 20240918184433.png",
     "Images/Pasted image 20240918184356.png",
     "Images/Pasted image 20240916162537.png",
