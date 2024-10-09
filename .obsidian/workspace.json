@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Thoughts/Startup Ideas.md",
+                "file": "Fleeting Thoughts/Thing to Look Into.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Thoughts/Startup Ideas.md",
+                "file": "Fleeting Thoughts/Thing to Look Into.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Thoughts/Startup Ideas.md",
+                "file": "Fleeting Thoughts/Thing to Look Into.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Thoughts/Startup Ideas.md"
+                "file": "Fleeting Thoughts/Thing to Look Into.md"
               }
             }
           },
@@ -282,9 +282,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bbf632745193ee1",
+  "active": "e1170747251e6673",
   "lastOpenFiles": [
+    "Fleeting Thoughts/Motivation.md",
+    "Fleeting Thoughts/Nietzsche.md",
     "Fleeting Thoughts/Existential Crisis.md",
+    "Images/Pasted image 20240916162050.png",
+    "Fleeting Thoughts/Thing to Look Into.md",
+    "Literature Notes/Short Reads/Art of Finishing.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
+    "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
+    "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
+    "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
+    "Literature Notes/Other Research Papers/How to Build the Virtual Cell with Artificial Intelligence - Priorities and Opportunities.md",
     "Fleeting Thoughts/Startup Ideas.md",
     "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
     "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
@@ -293,7 +303,6 @@
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter Two - One Second Before.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
@@ -301,15 +310,6 @@
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
     "Literature Notes/Immunology Research/A CAR enhancer increases the activity and persistence of CAR T cells.md",
     "Literature Notes/Immunology Research/Antitumor progenitor exhausted CD8+ T cells are sustained by TCR engagement.md",
-    "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
-    "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
-    "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
-    "Literature Notes/Immunology Research/Interleukin-2 (IL-2).md",
-    "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
-    "Literature Notes/Immunology Research/NaCl enhances CD8+ T cell effector functions in cancer immunotherapy.md",
-    "Literature Notes/Immunology Research/Mis-spliced transcripts generate de novo proteins in TDP-43–related ALS & FTD.md",
-    "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
-    "Literature Notes/Other Research Papers/A high-throughput phenotypic screen combined with an ultra-large-scale deep learning-based virtual screening reveals novel scaffolds of antibacterial compounds.md",
     "Images/Pasted image 20241008225950.png",
     "Images/Pasted image 20241008225310.png",
     "Images/Pasted image 20241008224919.png",
@@ -319,7 +319,6 @@
     "Images/Pasted image 20241008222101.png",
     "Images/Pasted image 20241008222014.png",
     "Images/Pasted image 20241008221318.png",
-    "Images/Pasted image 20241008214317.png",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition",
     "Images",
     "Video Notes",
