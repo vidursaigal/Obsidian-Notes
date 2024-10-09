@@ -76,7 +76,7 @@ On exam
 ![[Pasted image 20241009040136.png]]
 3-5 Mammalian Toll-like receptors are activated by many different pathogen-associated molecular patterns. - https://www.youtube.com/watch?v=8mEnyBdsrr8
 
-3-6 TLR-4 recognizes bacterial lipopolysaccharide in association with the host accessory proteins MD-2 and CD14.
+3-6 TLR-4 recognizes bac]]]]]]]]]]]]]]]\terial lipopolysaccharide in association with the host accessory proteins MD-2 and CD14.
 ![[Pasted image 20241009040800.png]]
 3-7 TLRs activate NFκB, AP-1, and IRF transcription factors to induce the expression of inflammatory cytokines and type I interferons.
 ![[Pasted image 20241009040836.png]]
