@@ -71,8 +71,13 @@ The image shows complement proteins binding to the antibody-pathogen complex and
 -T cells orchestrate cell-mediated immunity and regulate B-cell responses to most antigens
 ![[Pasted image 20241009001206.png]]
 ![[Pasted image 20241009001717.png]]
-
+![[Pasted image 20241009002238.png]]
+![[Pasted image 20241009003246.png]]
+![[Pasted image 20241009003258.png]]
+![[Pasted image 20241009003801.png]]
+-Type 1 T helper (Th1) cells produce interferon-gamma, interleukin (IL)-2, and tumor necrosis factor (TNF)-beta, which activate macrophages and are responsible for cell-mediated immunity and phagocyte-dependent protective responses.
 -Inherited and acquired defects in the immune system result in increases susceptibility to infection. 
+![[Pasted image 20241009004255.png]]
 -Understanding adaptive immune responses is important for the control of allergies, autoimmune disease, and the rejection of transplanted organs. 
 -Vaccination is the most effective means of controlling infectious diseases. 
 -Emerging pathogens present new challenges for the immune system
