@@ -134,7 +134,9 @@ Acute-phase proteins (APPs) are a class of proteins whose concentrations in bloo
 ![[Pasted image 20241009042714.png]]
 
 3-25 NK cells express activating and inhibitory receptors to distinguish between healthy and infected cells.
-
+![[Pasted image 20241009042846.png]]
+![[Pasted image 20241009042909.png]]
 3-26 NK-cell receptors belong to several structural families.
-
+![[Pasted image 20241009042932.png]]
+![[Pasted image 20241009042954.png]]
 3-27 NK cells express activating receptors that recognize ligands induced on infected cells or tumor cells.
