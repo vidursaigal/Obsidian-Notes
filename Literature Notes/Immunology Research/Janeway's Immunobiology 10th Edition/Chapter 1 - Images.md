@@ -69,6 +69,9 @@ This leads to the formation of a membrane attack complex (MAC) that punctures th
 The image shows complement proteins binding to the antibody-pathogen complex and initiating bacterial destruction.
 ![[Pasted image 20241009000532.png]]
 -T cells orchestrate cell-mediated immunity and regulate B-cell responses to most antigens
+![[Pasted image 20241009001206.png]]
+![[Pasted image 20241009001717.png]]
+
 -Inherited and acquired defects in the immune system result in increases susceptibility to infection. 
 -Understanding adaptive immune responses is important for the control of allergies, autoimmune disease, and the rejection of transplanted organs. 
 -Vaccination is the most effective means of controlling infectious diseases. 

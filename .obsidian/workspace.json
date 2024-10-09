@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+                "file": "Fleeting Thoughts/Startup Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+                "file": "Fleeting Thoughts/Startup Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+                "file": "Fleeting Thoughts/Startup Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md"
+                "file": "Fleeting Thoughts/Startup Ideas.md"
               }
             }
           },
@@ -282,8 +282,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1170747251e6673",
+  "active": "a360fa09da5e71f8",
   "lastOpenFiles": [
+    "Fleeting Thoughts/Existential Crisis.md",
+    "Fleeting Thoughts/Motivation.md",
+    "Fleeting Thoughts/Startup Ideas.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+    "Images/Pasted image 20241009001717.png",
+    "Images/Pasted image 20241009001206.png",
     "Images/Pasted image 20241009000532.png",
     "Images/Pasted image 20241009000202.png",
     "Images/Pasted image 20241008235947.png",
@@ -291,15 +297,11 @@
     "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
     "Images/Pasted image 20241008231958.png",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
     "Images/Pasted image 20241008231900.png",
     "Images/Pasted image 20241008231756.png",
     "Images/Pasted image 20241008231725.png",
     "Images/Pasted image 20241008231650.png",
-    "Images/Pasted image 20241008231611.png",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
-    "Images/Pasted image 20241008231313.png",
-    "Pasted image 20241008231306.png",
     "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
     "Literature Notes/Other Research Papers/How to Build the Virtual Cell with Artificial Intelligence - Priorities and Opportunities.md",
     "Literature Notes/Other Research Papers/A high-throughput phenotypic screen combined with an ultra-large-scale deep learning-based virtual screening reveals novel scaffolds of antibacterial compounds.md",
@@ -310,12 +312,9 @@
     "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
     "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
     "Fleeting Thoughts/Thing to Look Into.md",
-    "Fleeting Thoughts/Motivation.md",
     "Fleeting Thoughts/Nietzsche.md",
-    "Fleeting Thoughts/Existential Crisis.md",
     "Literature Notes/Short Reads/Art of Finishing.md",
     "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
-    "Fleeting Thoughts/Startup Ideas.md",
     "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
