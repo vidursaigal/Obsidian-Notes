@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Thoughts/Statup Ideas.md",
+                "file": "Fleeting Thoughts/Startup Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Thoughts/Statup Ideas.md",
+                "file": "Fleeting Thoughts/Startup Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Thoughts/Statup Ideas.md",
+                "file": "Fleeting Thoughts/Startup Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Thoughts/Statup Ideas.md"
+                "file": "Fleeting Thoughts/Startup Ideas.md"
               }
             }
           },
@@ -282,10 +282,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1170747251e6673",
+  "active": "2bbf632745193ee1",
   "lastOpenFiles": [
     "Fleeting Thoughts/Existential Crisis.md",
-    "Fleeting Thoughts/Statup Ideas.md",
+    "Fleeting Thoughts/Startup Ideas.md",
     "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
     "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
     "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
