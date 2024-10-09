@@ -31,11 +31,11 @@ Q4: Please explain the following figure in the context of a new experimental vac
 
 Q5: Please use the information in the table to calculate potential V(D)J combinatorial diversity of the human T-cell receptor repertoire. 
 
-|                                  | β-chain | **α-chain** |
-| -------------------------------- | ------- | ----------- |
-| # of variable gene segments (V)  | 30      | 100         |
-| # of diversity gene segments (D) | 2       | 0           |
-| # of joining gene segments (J)   | 12      | 50          |
+|                                  | β-chain | α-chain |
+| -------------------------------- | ------- | ------- |
+| # of variable gene segments (V)  | 30      | 100     |
+| # of diversity gene segments (D) | 2       | 0       |
+| # of joining gene segments (J)   | 12      | 50      |
 (Multiply them all together?)
 
 Q6: Please list three similarities and three differences between an antibody and a TCR. You can consider areas such as their diversity generation, structure, and functions.
