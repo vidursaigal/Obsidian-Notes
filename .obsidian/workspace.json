@@ -168,9 +168,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2f4ea25f673518d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Images.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -236,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Images.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Images.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Images.md"
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Images.md"
               }
             }
           },
@@ -306,27 +318,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed5f2c1327ba0566",
+  "active": "a360fa09da5e71f8",
   "lastOpenFiles": [
-    "Pasted image 20241009043120.png",
-    "Images/Pasted image 20241009042954.png",
-    "Images/Pasted image 20241009042932.png",
-    "Images/Pasted image 20241009042909.png",
-    "Images/Pasted image 20241009042846.png",
-    "Images/Pasted image 20241009042714.png",
-    "Images/Pasted image 20241009042653.png",
-    "Images/Pasted image 20241009042627.png",
-    "Images/Pasted image 20241009042438.png",
-    "Images/Pasted image 20241009042421.png",
-    "Images/Pasted image 20241009042349.png",
+    "Images/Pasted image 20241009044900.png",
+    "Images/Pasted image 20241009044814.png",
+    "Images/Pasted image 20241009044754.png",
+    "Images/Pasted image 20241009044341.png",
+    "Images/Pasted image 20241009044224.png",
+    "Images/Pasted image 20241009044208.png",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Images.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Images.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Images.md",
+    "Images/Pasted image 20241009044037.png",
+    "Images/Pasted image 20241009043931.png",
+    "Images/Pasted image 20241009043920.png",
+    "Images/Pasted image 20241009043120.png",
+    "Images/Pasted image 20241009042954.png",
     "Fleeting Thoughts/Motivation.md",
     "Fleeting Thoughts/Nietzsche.md",
     "Fleeting Thoughts/Startup Ideas.md",
     "Fleeting Thoughts/Thing to Look Into.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Images.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Innate Immunity - The First Lines of Defense.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
@@ -343,7 +356,6 @@
     "Literature Notes/Normal People/The Normal and the Pathological.md",
     "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
     "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
-    "Literature Notes/Short Reads/Art of Finishing.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition",
     "Images",
     "Video Notes",
