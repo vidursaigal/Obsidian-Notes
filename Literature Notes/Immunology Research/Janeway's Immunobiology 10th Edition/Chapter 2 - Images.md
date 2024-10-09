@@ -66,11 +66,15 @@ Microbes	use sugar	as	camouflage	because	antibodies cannot recognize the	underly
 ![[Pasted image 20241009033412.png]]
 ![[Pasted image 20241009033434.png]]
 -The small fragments of some complement proteins initiate a local inflammatory response. 
+![[Pasted image 20241009033551.png]]
 
 -The terminal complement proteins polymerize to form pores in membranes that can kill certain pathogens.
+![[Pasted image 20241009033632.png]]
 
 -Complement control proteins regulate all three pathways of complement activation and protect the host from their destructive effects.
-
+![[Pasted image 20241009033709.png]]
+![[Pasted image 20241009033720.png]]
 -Genetic and acquired disorders in complement regulation can produce various inflammatory conditions.
 
 -Pathogens produce several types of proteins that can inhibit complement activation.
+![[Pasted image 20241009034053.png]]
