@@ -17,3 +17,8 @@
 This image shows a macrophage expressing receptors that help it recognize a variety of pathogens, including bacteria (via NOD1, TLR-1/TLR-2, TLR-4), fungi (via glucan receptor), viruses (via mannose receptor), and cellular debris (via scavenger receptor).
 ![[Pasted image 20241008222352.png]]
 Macrophages bring in monocytes and neutrophils from blood via cytokines/chemokines.
+![[Pasted image 20241008222632.png]]
+- **Hematoxylin** stains cell nuclei a dark blue or purple color, which allows for clear visualization of nuclei and nuclear detail.
+- **Eosin** stains the extracellular matrix and cytoplasm a pinkish color, highlighting the overall structure of tissues.
+![[Pasted image 20241008222727.png]]
+
