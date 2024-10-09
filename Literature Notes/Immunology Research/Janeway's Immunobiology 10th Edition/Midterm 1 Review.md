@@ -99,3 +99,20 @@ Q7: Please explain how GCPR transduces the outside signal of ligand binding to i
 ### Summary:
 
 - In summary, GPCRs convert the extracellular signal of ligand binding into an intracellular response by activating G proteins. The G proteins, in turn, activate effector proteins like adenylyl cyclase or phospholipase C, leading to the generation of second messengers (e.g., cAMP, IP3, DAG). These second messengers initiate a cascade of intracellular signals, ultimately altering cellular responses, including gene expression, enzyme activity, or ion channel function.
+
+Monoclonal vs polyclonal antibodies (differences, when you would use either)
+Mechanism by which pathogen goes from blood to tissue
+We will have to draw a diagram
+VDJ recombination  -> Math,
+MHC Class 1 and Class 2 -> Class 1 -> every cell in the body (exogenous), Class 2 -> antigen presenting cell (T Cell)
+GPCRs, Lymph Nodes (systems),
+Macrophages -> M1 vs M2 macrophages -> general pathway (phagocytes, not granulocytes even though they have granules) 
+
+VDJ system -
+Light chain has variable components -> in between variable and constant there is a J, can be slices so that V is next to a J which is next to a constant -> 23/12 rule 
+	Splicing occurs as a lymphocyte matures, only has one splice in their genome.
+
+three regions of hyper variability -> each contribute a piece to the variable region -> after folding, only a specific peptide binds to this. 
+
+Human B cell repetoire (VDJ)
+
