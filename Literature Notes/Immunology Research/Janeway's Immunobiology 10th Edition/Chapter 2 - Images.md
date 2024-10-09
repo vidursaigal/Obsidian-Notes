@@ -61,9 +61,10 @@ Microbes	use sugar	as	camouflage	because	antibodies cannot recognize the	underly
 -Complement developed early in the evolution of multicellular organisms
 
 -Surface-bound C3 convertase deposits large numbers of C3b fragments on pathogen surfaces and generates C5 convertase activity. 
-
+![[Pasted image 20241009033322.png]]
 -Ingestion of complement-tagged pathogens by phagocytes is mediated by receptors for the bound complement proteins.
-
+![[Pasted image 20241009033412.png]]
+![[Pasted image 20241009033434.png]]
 -The small fragments of some complement proteins initiate a local inflammatory response. 
 
 -The terminal complement proteins polymerize to form pores in membranes that can kill certain pathogens.
