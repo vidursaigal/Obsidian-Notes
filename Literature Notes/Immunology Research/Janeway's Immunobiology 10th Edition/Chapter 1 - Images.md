@@ -50,3 +50,26 @@ Macrophages bring in monocytes and neutrophils from blood via cytokines/chemokin
 -Lymphocytes activated by antigens proliferate in the peripheral lymphoid organs
 	-this then generates effector cells and immunological memory
 
+-Innate immune responses can select from several effector modules to protect against different types of pathogens.
+![[Pasted image 20241008235947.png]]
+![[Pasted image 20241009000202.png]]
+-Antibodies protect against extracellular pathogens and their toxic products. 
+-Neutralization:
+Neutralizing antibodies bind directly to bacterial toxins or viral particles, blocking their ability to bind to receptors on host cells. This prevents the toxin from entering or affecting the cell.
+Example in the image: Antibodies are shown surrounding and neutralizing the bacterial toxin by blocking its active sites.
+
+-Opsonization:
+This process involves antibodies coating the surface of bacteria, which tags them for recognition by phagocytic cells (like macrophages).
+The bacteria are then engulfed and digested by the macrophages. Even if the antibodies aren’t neutralizing, they can still promote bacterial uptake by macrophages for clearance.
+In the image: The antibody binds to the surface of the bacteria, and a macrophage is shown ingesting the coated bacteria.
+
+-Complement Activation:
+Antibodies bind to bacteria and recruit the complement system, a group of proteins in the blood that help clear pathogens.
+This leads to the formation of a membrane attack complex (MAC) that punctures the bacterial cell membrane, leading to bacterial lysis and ingestion.
+The image shows complement proteins binding to the antibody-pathogen complex and initiating bacterial destruction.
+![[Pasted image 20241009000532.png]]
+-T cells orchestrate cell-mediated immunity and regulate B-cell responses to most antigens
+-Inherited and acquired defects in the immune system result in increases susceptibility to infection. 
+-Understanding adaptive immune responses is important for the control of allergies, autoimmune disease, and the rejection of transplanted organs. 
+-Vaccination is the most effective means of controlling infectious diseases. 
+-Emerging pathogens present new challenges for the immune system
