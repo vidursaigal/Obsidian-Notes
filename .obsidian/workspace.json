@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+                "file": "Fleeting Thoughts/Statup Ideas.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+                "file": "Fleeting Thoughts/Statup Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+                "file": "Fleeting Thoughts/Statup Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md"
+                "file": "Fleeting Thoughts/Statup Ideas.md"
               }
             }
           },
@@ -282,45 +282,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a360fa09da5e71f8",
+  "active": "e1170747251e6673",
   "lastOpenFiles": [
+    "Fleeting Thoughts/Existential Crisis.md",
+    "Fleeting Thoughts/Statup Ideas.md",
+    "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
+    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
+    "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
+    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
+    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
+    "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter Two - One Second Before.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Innate Immunity - The First Lines of Defense.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
+    "Literature Notes/Immunology Research/A CAR enhancer increases the activity and persistence of CAR T cells.md",
+    "Literature Notes/Immunology Research/Antitumor progenitor exhausted CD8+ T cells are sustained by TCR engagement.md",
+    "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
+    "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
+    "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
+    "Literature Notes/Immunology Research/Interleukin-2 (IL-2).md",
+    "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
+    "Literature Notes/Immunology Research/NaCl enhances CD8+ T cell effector functions in cancer immunotherapy.md",
+    "Literature Notes/Immunology Research/Mis-spliced transcripts generate de novo proteins in TDP-43–related ALS & FTD.md",
+    "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
+    "Literature Notes/Other Research Papers/A high-throughput phenotypic screen combined with an ultra-large-scale deep learning-based virtual screening reveals novel scaffolds of antibacterial compounds.md",
+    "Images/Pasted image 20241008225950.png",
+    "Images/Pasted image 20241008225310.png",
+    "Images/Pasted image 20241008224919.png",
     "Images/Pasted image 20241008222727.png",
     "Images/Pasted image 20241008222632.png",
     "Images/Pasted image 20241008222352.png",
     "Images/Pasted image 20241008222101.png",
     "Images/Pasted image 20241008222014.png",
     "Images/Pasted image 20241008221318.png",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
     "Images/Pasted image 20241008214317.png",
-    "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md",
-    "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
-    "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md",
-    "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
-    "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
-    "Literature Notes/Normal People/Slouch Posture - Panic in Modern America.md",
-    "Literature Notes/Normal People/The Normal and the Pathological.md",
-    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
-    "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
-    "Images/Pasted image 20241005174708.png",
-    "Images/Pasted image 20241005181015.png",
-    "Images/Pasted image 20241005174732.png",
-    "Images/Pasted image 20241005173725.png",
-    "Literature Notes/Immunology Research/HLA Transduction Running Notes.md",
-    "Literature Notes/Immunology Research/Interferon gamma (IFN-γ).md",
-    "Literature Notes/Immunology Research/Engineered T cell therapy for central nervous system injury.md",
-    "Literature Notes/Immunology Research/Cytokines.md",
-    "Literature Notes/Immunology Research/Clonally expanded CD8 T cells characterize amyotrophic lateral sclerosis-4.md",
-    "Literature Notes/Immunology Research/Antitumor progenitor exhausted CD8+ T cells are sustained by TCR engagement.md",
-    "Literature Notes/Immunology Research/A CAR enhancer increases the activity and persistence of CAR T cells.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Innate Immunity - The First Lines of Defense.md",
-    "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition",
-    "Literature Notes/Computer Science/Stacks & Queues.md",
     "Images",
     "Video Notes",
     "Literature Notes/Short Reads",

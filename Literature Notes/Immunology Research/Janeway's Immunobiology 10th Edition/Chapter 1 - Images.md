@@ -22,9 +22,23 @@ Macrophages bring in monocytes and neutrophils from blood via cytokines/chemokin
 - **Eosin** stains the extracellular matrix and cytoplasm a pinkish color, highlighting the overall structure of tissues.
 ![[Pasted image 20241008222727.png]]
 -The interaction of antigens with antigen receptors induces lymphocytes to acquire effector and memory activity. 
+![[Pasted image 20241008224919.png]]
 -Antibodies and TCRs have constant and variables regions
 	-these have different functions
+![[Pasted image 20241008225310.png]]
+-FcRs recognize the Fc fragment of antibodies and bind to them when they are attached to infected cells or pathogens. This binding activates immune responses that destroy microbes and infected cells.
+-Fc receptors, found on the surface of myeloid cells like macrophages and neutrophils, specifically bind to the Fc region (composed of the constant 1 and constant 2 domains) of antibodies, allowing them to capture antibodies in the bloodstream and initiate immune responses against pathogens coated with antibodies.
 -Antibodies and TCRs recognize antigens through different mechanisms
+![[Pasted image 20241008225950.png]]
+
 -Antigen receptor genes are assembled through rearrangement of incomplete receptor gene fragments.
 -Lymphocytes activated by antigen give rise to clones of antigen-specific effector cells that mediate adaptive immunity. 
 	-In the immune system, effector cells are the relatively short-lived activated cells that defend the body in an immune response. Effector B cells are called plasma cells and secrete antibodies, and activated T cells include cytotoxic T cells and helper T cells, which carry out cell-mediated responses.
+-Lymphocytes with self-reactive receptors are eliminated during development or functionally inactivated
+-Lymphocytes mature in the bone marrow or thymus and then congregate in lymphoid tissues throughout the body
+-Adaptive immune responses are initiated by antigen and antigen-presenting cells in peripheral lymphoid tissues.
+-Lymphocytes encounter and respond to antigen in the peripheral lymphoid organs.
+-Mucosal surfaces have specialized structures that orchestrate responses to environmental microbes 
+-Lymphocytes activated by antigens proliferate in the peripheral lymphoid organs
+	-this then generates effector cells and immunological memory
+
