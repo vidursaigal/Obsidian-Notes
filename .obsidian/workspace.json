@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md"
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md"
               }
             }
           },
@@ -282,11 +282,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1170747251e6673",
+  "active": "a360fa09da5e71f8",
   "lastOpenFiles": [
+    "Images/Pasted image 20241008222352.png",
+    "Images/Pasted image 20241008222101.png",
+    "Images/Pasted image 20241008222014.png",
+    "Images/Pasted image 20241008221318.png",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
     "Images/Pasted image 20241008214317.png",
     "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
     "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
     "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md",
     "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
@@ -317,10 +321,6 @@
     "Literature Notes/Computer Science/Stacks & Queues.md",
     "Images/Pasted image 20240918184433.png",
     "Images/Pasted image 20240918184356.png",
-    "Images/Pasted image 20240916162537.png",
-    "Images/Pasted image 20240916162512.png",
-    "Images/Pasted image 20240916162417.png",
-    "Images/Pasted image 20240916162402.png",
     "Images",
     "Video Notes",
     "Literature Notes/Short Reads",
