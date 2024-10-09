@@ -21,4 +21,10 @@ Macrophages bring in monocytes and neutrophils from blood via cytokines/chemokin
 - **Hematoxylin** stains cell nuclei a dark blue or purple color, which allows for clear visualization of nuclei and nuclear detail.
 - **Eosin** stains the extracellular matrix and cytoplasm a pinkish color, highlighting the overall structure of tissues.
 ![[Pasted image 20241008222727.png]]
-
+-The interaction of antigens with antigen receptors induces lymphocytes to acquire effector and memory activity. 
+-Antibodies and TCRs have constant and variables regions
+	-these have different functions
+-Antibodies and TCRs recognize antigens through different mechanisms
+-Antigen receptor genes are assembled through rearrangement of incomplete receptor gene fragments.
+-Lymphocytes activated by antigen give rise to clones of antigen-specific effector cells that mediate adaptive immunity. 
+	-In the immune system, effector cells are the relatively short-lived activated cells that defend the body in an immune response. Effector B cells are called plasma cells and secrete antibodies, and activated T cells include cytotoxic T cells and helper T cells, which carry out cell-mediated responses.
