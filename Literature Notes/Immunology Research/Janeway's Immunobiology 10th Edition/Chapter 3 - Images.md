@@ -140,3 +140,7 @@ Acute-phase proteins (APPs) are a class of proteins whose concentrations in bloo
 ![[Pasted image 20241009042932.png]]
 ![[Pasted image 20241009042954.png]]
 3-27 NK cells express activating receptors that recognize ligands induced on infected cells or tumor cells.
+![[Pasted image 20241009043120.png]]
+Natural killer (NK) cell-mediated cancer immunotherapy leverages the ability of NK cells to identify and eliminate tumor cells that lack the expression of inhibitory ligands, such as MHC class I molecules. NK cells possess both activating and inhibitory receptors, and their function is tightly regulated by the balance between signals from these receptors. If a cell does not present sufficient inhibitory signals (e.g., low or absent MHC class I), NK cells are activated to kill the target.
+
+However, cancer cells have evolved multiple mechanisms to escape NK cell-mediated killing, even when they downregulate inhibitory signals. Here are some key reasons why cancer can escape NK cell immunity:
