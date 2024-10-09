@@ -34,11 +34,19 @@ Macrophages bring in monocytes and neutrophils from blood via cytokines/chemokin
 -Antigen receptor genes are assembled through rearrangement of incomplete receptor gene fragments.
 -Lymphocytes activated by antigen give rise to clones of antigen-specific effector cells that mediate adaptive immunity. 
 	-In the immune system, effector cells are the relatively short-lived activated cells that defend the body in an immune response. Effector B cells are called plasma cells and secrete antibodies, and activated T cells include cytotoxic T cells and helper T cells, which carry out cell-mediated responses.
+![[Pasted image 20241008230645.png]]
+![[Pasted image 20241008230804.png]]
 -Lymphocytes with self-reactive receptors are eliminated during development or functionally inactivated
 -Lymphocytes mature in the bone marrow or thymus and then congregate in lymphoid tissues throughout the body
+![[Pasted image 20241008231313.png]]
 -Adaptive immune responses are initiated by antigen and antigen-presenting cells in peripheral lymphoid tissues.
 -Lymphocytes encounter and respond to antigen in the peripheral lymphoid organs.
+![[Pasted image 20241008231611.png]]
+![[Pasted image 20241008231650.png]]
+![[Pasted image 20241008231725.png]]
+![[Pasted image 20241008231756.png]]
 -Mucosal surfaces have specialized structures that orchestrate responses to environmental microbes 
+![[Pasted image 20241008231900.png]]
 -Lymphocytes activated by antigens proliferate in the peripheral lymphoid organs
 	-this then generates effector cells and immunological memory
 

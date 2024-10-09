@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fleeting Thoughts/Thing to Look Into.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fleeting Thoughts/Thing to Look Into.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fleeting Thoughts/Thing to Look Into.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fleeting Thoughts/Thing to Look Into.md"
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md"
               }
             }
           },
@@ -284,41 +284,42 @@
   },
   "active": "e1170747251e6673",
   "lastOpenFiles": [
+    "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
+    "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
+    "Images/Pasted image 20241008231958.png",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
+    "Images/Pasted image 20241008231900.png",
+    "Images/Pasted image 20241008231756.png",
+    "Images/Pasted image 20241008231725.png",
+    "Images/Pasted image 20241008231650.png",
+    "Images/Pasted image 20241008231611.png",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
+    "Images/Pasted image 20241008231313.png",
+    "Pasted image 20241008231306.png",
+    "Images/Pasted image 20241008230804.png",
+    "Images/Pasted image 20241008230645.png",
+    "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
+    "Literature Notes/Other Research Papers/How to Build the Virtual Cell with Artificial Intelligence - Priorities and Opportunities.md",
+    "Literature Notes/Other Research Papers/A high-throughput phenotypic screen combined with an ultra-large-scale deep learning-based virtual screening reveals novel scaffolds of antibacterial compounds.md",
+    "Literature Notes/Normal People/Slouch Posture - Panic in Modern America.md",
+    "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
+    "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
+    "Literature Notes/Normal People/The Normal and the Pathological.md",
+    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
+    "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
+    "Fleeting Thoughts/Thing to Look Into.md",
     "Fleeting Thoughts/Motivation.md",
     "Fleeting Thoughts/Nietzsche.md",
     "Fleeting Thoughts/Existential Crisis.md",
-    "Images/Pasted image 20240916162050.png",
-    "Fleeting Thoughts/Thing to Look Into.md",
     "Literature Notes/Short Reads/Art of Finishing.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
     "Literature Notes/Short Reads/I Wasted my Time this Summer, and I will in the Fall too.md",
-    "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
-    "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
-    "Literature Notes/Other Research Papers/How to Build the Virtual Cell with Artificial Intelligence - Priorities and Opportunities.md",
     "Fleeting Thoughts/Startup Ideas.md",
-    "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
-    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
     "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter One - The Behavior.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Introduction.md",
     "Literature Notes/Behave - The Biology of Humans at our Best and Worst/Chapter Two - One Second Before.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Innate Immunity - The First Lines of Defense.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
-    "Literature Notes/Immunology Research/A CAR enhancer increases the activity and persistence of CAR T cells.md",
-    "Literature Notes/Immunology Research/Antitumor progenitor exhausted CD8+ T cells are sustained by TCR engagement.md",
-    "Images/Pasted image 20241008225950.png",
-    "Images/Pasted image 20241008225310.png",
-    "Images/Pasted image 20241008224919.png",
-    "Images/Pasted image 20241008222727.png",
-    "Images/Pasted image 20241008222632.png",
-    "Images/Pasted image 20241008222352.png",
-    "Images/Pasted image 20241008222101.png",
-    "Images/Pasted image 20241008222014.png",
-    "Images/Pasted image 20241008221318.png",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition",
     "Images",
     "Video Notes",

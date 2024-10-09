@@ -16,8 +16,8 @@ Q3: Please illustrate an IgE structure and make sure all the disulfide bonds are
 
 
 Q4: Please explain the following figure in the context of a new experimental vaccine that was introduced to a mouse.
-
 ![[Pasted image 20241008214317.png]]\
+![[Pasted image 20241008231958.png]]
 - **Primary Response (First Exposure to Antigen A)**:
     
     - After the initial introduction of the vaccine containing **Antigen A**, there is a **lag phase** where antibody production is minimal, indicating that the immune system is beginning to recognize and process the antigen.
