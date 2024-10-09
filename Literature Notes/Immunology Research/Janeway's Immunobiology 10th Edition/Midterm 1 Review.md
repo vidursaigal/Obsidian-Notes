@@ -114,5 +114,26 @@ Light chain has variable components -> in between variable and constant there is
 
 three regions of hyper variability -> each contribute a piece to the variable region -> after folding, only a specific peptide binds to this. 
 
-Human B cell repetoire (VDJ)
+Human B cell repertoire (VDJ):
 
+
+Variable:
+Kappa - 15
+lambda - 20
+Heavy - 30
+
+D Heavy - 20
+
+J: 
+Kappa - 5 
+Lambda - 5
+Heavy - 10
+
+
+(15 x  5 + 20 x 5)  x (30 x 20 x 10)
+
+
+GPCR -> ligand binding, intracellular signals
+Lymph nodes -> where the dendretic cells go to the lymph node, where do T cells go to lymph nodes, where b cells and T cells stay. 
+
+Draw a TCR -> disulfide bonds, antigen binding region, alpha chain beta chain

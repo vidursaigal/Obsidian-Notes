@@ -27,3 +27,11 @@ Antibody structure; structural variation in immunoglobulin constant regions; int
 4-7 The constant region confers functional specialization on the antibody.
 
 4-8 IgM and IgA can form polymers by interacting with the J chain.
+
+NK Cells (favorite cells)
+5 things 
+
+T cells 
+-cytotoxic and helper,
+-immense theraputic potential (CarT)
+-
