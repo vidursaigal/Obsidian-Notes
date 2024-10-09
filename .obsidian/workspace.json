@@ -132,9 +132,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1170747251e6673",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -200,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md"
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md"
               }
             }
           },
@@ -257,7 +269,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,10 +282,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "95da9360616ac925",
+  "active": "e1170747251e6673",
   "lastOpenFiles": [
-    "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
+    "Images/Pasted image 20241008214317.png",
     "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
+    "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
     "Literature Notes/Normal People/Adolphe Quetelet and the legacy of the average man in psychology.md",
     "Literature Notes/Normal People/Situated Knowledges - The Science Question in Feminism and the Privilege of Partial Perspective.md",
     "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
@@ -301,8 +315,6 @@
     "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition",
     "Literature Notes/Computer Science/Stacks & Queues.md",
-    "Literature Notes/Computer Science/Runtime Code Snippets & Recurrences.md",
-    "Literature Notes/Computer Science/Euclid’s Algorithm for Greatest Common Divisor.md",
     "Images/Pasted image 20240918184433.png",
     "Images/Pasted image 20240918184356.png",
     "Images/Pasted image 20240916162537.png",
