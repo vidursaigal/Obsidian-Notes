@@ -91,7 +91,50 @@ On exam
 3-11 Certain NLR proteins react to infection or cellular damage by forming an inflammasome that induces cell death and secretion of inflammatory cytokines.
 
 3-12 Activation of innate sensors in macrophages and dendritic cells triggers changes in gene expression that have far-reaching effects on the immune response.
-
+![[Pasted image 20241009041202.png]]
 3-13 Toll signaling in Drosophila is downstream of a distinct set of pathogen-recognition molecules.
 
 3-14 TLR and NOD genes have undergone extensive diversification in both invertebrates and some primitive chordates.
+
+3-15 Cytokines and their receptors fall into distinct families of structurally related proteins.
+![[Pasted image 20241009041521.png]]
+
+
+3-16 Cytokine receptors of the hematopoietin superfamily are associated with the JAK family of tyrosine kinases, which activate STAT transcription factors.
+![[Pasted image 20241009041626.png]]
+![[Pasted image 20241009041642.png]]
+
+3-17 Chemokines released by macrophages and dendritic cells recruit effector cells to sites of infection.
+![[Pasted image 20241009041907.png]]
+- Depending on	maturity of macrophages, they will release a different selection of cytokines
+- Severe patients have mutations in receptors	for cytokines that  prevent	activation	of immune system.
+![[Pasted image 20241009042023.png]]
+![[Pasted image 20241009042041.png]]
+3-18 Cell-adhesion molecules control interactions between leukocytes and endothelial cells during an inflammatory response.
+![[Pasted image 20241009042154.png]]
+![[Pasted image 20241009042204.png]]
+
+3-19 Neutrophils make up the first wave of cells that cross the blood vessel wall to enter an inflamed tissue.
+![[Pasted image 20241009042241.png]]
+![[Pasted image 20241009042304.png]]
+3-20 TNF-α is an important cytokine that triggers local containment of infection but induces shock when released systemically.
+![[Pasted image 20241009042349.png]]
+3-21 Cytokines made by macrophages and dendritic cells induce a systemic reaction known as the acute-phase response.
+![[Pasted image 20241009042421.png]]
+![[Pasted image 20241009042438.png]]
+Acute-phase proteins (APPs) are a class of proteins whose concentrations in blood plasma either increase (positive acute-phase proteins) or decrease (negative acute-phase proteins) in response to inflammation. This response is called the acute-phase reaction (also called acute-phase response).
+
+3-22 Interferons induced by viral infection make several contributions to host defense.
+![[Pasted image 20241009042627.png]]
+
+3-23 Several types of innate lymphoid cells provide protection in early infection.
+![[Pasted image 20241009042653.png]]
+
+3-24 NK cells are activated by type I interferon and macrophage-derived cytokines.
+![[Pasted image 20241009042714.png]]
+
+3-25 NK cells express activating and inhibitory receptors to distinguish between healthy and infected cells.
+
+3-26 NK-cell receptors belong to several structural families.
+
+3-27 NK cells express activating receptors that recognize ligands induced on infected cells or tumor cells.
