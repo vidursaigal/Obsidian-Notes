@@ -42,8 +42,8 @@ This image provides a visual explanation of the structure and function of defens
 
 -The lectin pathway uses soluble receptors that recognize microbial surfaces to activate the complement cascade 
 ![[Pasted image 20241009032307.png]]
-Microbes	use sugar	as	camouflage	because	antibodies cannot recognize the	underlying protein sequences
-	- HIV and influenza are highly	glycosylated
+Microbes	use sugar	as	camouflage	because antibodies cannot recognize the underlying protein sequences
+	- HIV and influenza are highly glycosylated
 ![[Pasted image 20241009032543.png]]
 -- **Structure**: MBL monomers form **trimeric clusters** of **carbohydrate-recognition domains** (yellow triangle-shaped regions). These clusters are supported by **collagen helices** and **α-helical coiled coils**, which stabilize the structure.
 -- **Structure**: Ficolins are structurally similar to MBLs but have **different carbohydrate-binding domains** (purple spheres), known as **fibrinogen domains**. These proteins also have **collagen helices** and **α-helical coiled coils**. (don't know if any of this is very important)
