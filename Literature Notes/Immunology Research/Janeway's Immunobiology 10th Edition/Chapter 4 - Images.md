@@ -1,5 +1,3 @@
-
-
 Antibody structure; structural variation in immunoglobulin constant regions; interaction of antibody molecule with specific antigen, antigen recognition by T-cells.
 ![[Pasted image 20241009043920.png]]
 ![[Pasted image 20241009043931.png]]
