@@ -101,11 +101,17 @@ Q7: Please explain how GCPR transduces the outside signal of ligand binding to i
 - In summary, GPCRs convert the extracellular signal of ligand binding into an intracellular response by activating G proteins. The G proteins, in turn, activate effector proteins like adenylyl cyclase or phospholipase C, leading to the generation of second messengers (e.g., cAMP, IP3, DAG). These second messengers initiate a cascade of intracellular signals, ultimately altering cellular responses, including gene expression, enzyme activity, or ion channel function.
 
 Monoclonal vs polyclonal antibodies (differences, when you would use either)
+
 Mechanism by which pathogen goes from blood to tissue
+
 We will have to draw a diagram
+
 VDJ recombination  -> Math,
+
 MHC Class 1 and Class 2 -> Class 1 -> every cell in the body (exogenous), Class 2 -> antigen presenting cell (T Cell)
+
 GPCRs, Lymph Nodes (systems),
+
 Macrophages -> M1 vs M2 macrophages -> general pathway (phagocytes, not granulocytes even though they have granules) 
 
 VDJ system -
@@ -142,6 +148,13 @@ NK Cells (favorite cells)
 5 things 
 
 T cells 
--cytotoxic and helper,
--immense theraputic potential (CarT)
+Specificity in Targeting: T-cells can recognize and respond to specific antigens presented by infected or abnormal cells via their T-cell receptors (TCRs). This specificity ensures that the immune response is directed only toward harmful pathogens or diseased cells, minimizing collateral damage to healthy tissues.
+
+Versatile Immune Functions: T-cells come in different subtypes, each with distinct roles. Cytotoxic T-cells (CD8+) kill infected or cancerous cells, while helper T-cells (CD4+) coordinate immune responses by signaling other immune cells, like B-cells and macrophages, to perform their functions effectively.
+
+Immunological Memory: Memory T-cells remember past infections or vaccinations. This allows the immune system to respond faster and more effectively upon re-exposure to the same pathogen, forming the basis for long-term immunity.
+
+Essential in Adaptive Immunity: T-cells are a critical component of adaptive immunity, meaning they can adapt and improve their response over time. Unlike innate immune cells, T-cells are not pre-programmed to fight infections but rather "learn" to fight specific pathogens.
+
+Ability to Modulate the Immune System: Regulatory T-cells (Tregs) help prevent autoimmune diseases by suppressing overactive immune responses. This ability to modulate the immune system ensures balance and prevents damage to the body's own tissues.
 ![[Pasted image 20241009223024.png]]
