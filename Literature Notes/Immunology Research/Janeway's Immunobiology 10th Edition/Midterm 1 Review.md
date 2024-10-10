@@ -144,3 +144,4 @@ NK Cells (favorite cells)
 T cells 
 -cytotoxic and helper,
 -immense theraputic potential (CarT)
+![[Pasted image 20241009223024.png]]
