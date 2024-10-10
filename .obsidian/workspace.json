@@ -175,26 +175,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fdf1d2167846e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - Images.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -260,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +265,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - Images.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,7 +288,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - Images.md"
               }
             }
           },
@@ -330,21 +318,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2fdf1d2167846e99",
+  "active": "a360fa09da5e71f8",
   "lastOpenFiles": [
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Images.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - Images.md",
+    "Images/Pasted image 20241009213041.png",
+    "Images/Pasted image 20241009213013.png",
+    "Images/Pasted image 20241009212937.png",
+    "Images/Pasted image 20241009212851.png",
+    "Images/Pasted image 20241009212832.png",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
     "conflict-files-obsidian-git.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Images.md",
     "Images/Pasted image 20241009045730.png",
     "Images/Pasted image 20241009050054.png",
     "Images/Pasted image 20241009045947.png",
     "Images/Pasted image 20241009045922.png",
     "Images/Pasted image 20241009045612.png",
-    "Images/Pasted image 20241009045404.png",
-    "Images/Pasted image 20241009045308.png",
-    "Images/Pasted image 20241009044900.png",
-    "Images/Pasted image 20241009044814.png",
-    "Images/Pasted image 20241009044754.png",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Images.md",
@@ -358,7 +349,6 @@
     "Fleeting Thoughts/Existential Crisis.md",
     "Literature Notes/Immunology Research/T-Scan - A Genome-wide Method for the Systematic Discovery of T Cell Epitopes.md",
     "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
     "Literature Notes/Other Research Papers/Being facially expressive is socially advantageous.md",
     "Literature Notes/Other Research Papers/How to Build the Virtual Cell with Artificial Intelligence - Priorities and Opportunities.md",
     "Literature Notes/Other Research Papers/A high-throughput phenotypic screen combined with an ultra-large-scale deep learning-based virtual screening reveals novel scaffolds of antibacterial compounds.md",
@@ -366,8 +356,6 @@
     "Literature Notes/Normal People/Sorting Things Out- Classification and Its Consequences Introduction.md",
     "Literature Notes/Normal People/The Power of Norms Georges Canguilhem, Michel Foucault, and the History of Medicine.md",
     "Literature Notes/Normal People/The Normal and the Pathological.md",
-    "Literature Notes/Normal People/The overfitted brain- Dreams evolved to assist generalization.md",
-    "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition",
     "Images",
     "Video Notes",

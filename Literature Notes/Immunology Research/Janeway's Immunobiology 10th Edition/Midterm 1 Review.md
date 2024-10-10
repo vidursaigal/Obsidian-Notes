@@ -137,3 +137,10 @@ GPCR -> ligand binding, intracellular signals
 Lymph nodes -> where the dendretic cells go to the lymph node, where do T cells go to lymph nodes, where b cells and T cells stay. 
 
 Draw a TCR -> disulfide bonds, antigen binding region, alpha chain beta chain
+
+NK Cells (favorite cells)
+5 things 
+
+T cells 
+-cytotoxic and helper,
+-immense theraputic potential (CarT)

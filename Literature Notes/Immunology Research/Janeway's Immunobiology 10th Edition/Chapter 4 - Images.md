@@ -54,10 +54,12 @@ Antibody structure; structural variation in immunoglobulin constant regions; int
 
 4-16 There are two classes of MHC molecules with distinct subunit compositions but similar three-dimensional structures.
 ![[Pasted image 20241009050054.png]]
+![[Pasted image 20241009212832.png]]
+![[Pasted image 20241009212851.png]]
 4-17 Peptides are stably bound to MHC molecules and also serve to stabilize the MHC molecule on the cell surface.
 
 4-18 MHC class I molecules bind short peptides of 8–10 amino acids by both ends.
-
+![[Pasted image 20241009212937.png]]
 4-19 The length of the peptides bound by MHC class II molecules is not constrained.
 
 4-20 The crystal structures of several peptide:MHC
@@ -67,17 +69,16 @@ receptor complexes show a similar orientation of the T-cell receptor over the pe
 complex.
 
 4-21 The CD4 and CD8 cell-surface proteins of T cells directly contact MHC molecules and are required to make an effective response to antigen.
-
+![[Pasted image 20241009213013.png]]
+![[Pasted image 20241009213041.png]]
 4-22 The two classes of MHC molecules are expressed differentially on cells.
 
 4-23 A distinct subset of T cells bears an alternative receptor made up of γ and δ chains.
+### Key Points about γδ T cells:
 
-=======
-NK Cells (favorite cells)
-5 things 
+- **Distinct from αβ T cells**: While αβ T cells are the majority of T cells in the body and are central to adaptive immune responses, γδ T cells are rarer and have a somewhat different role, often bridging innate and adaptive immunity.
+- **TCR Structure**: The TCR of γδ T cells recognizes antigens differently compared to αβ TCRs, which typically recognize peptide antigens presented by major histocompatibility complex (MHC) molecules. γδ T cells can recognize a wider variety of antigens, including non-peptide molecules and antigens without MHC presentation.
+- **Tissue Localization**: γδ T cells are more commonly found in epithelial tissues (like the skin and the gut) and play key roles in immune surveillance, responding quickly to infection or tissue stress.
+- **Function**: They are involved in immune responses against pathogens, cancer, and tissue repair, and their function often overlaps with both innate and adaptive immune responses.
 
-T cells 
--cytotoxic and helper,
--immense theraputic potential (CarT)
--
->>>>>>> origin/main
+
