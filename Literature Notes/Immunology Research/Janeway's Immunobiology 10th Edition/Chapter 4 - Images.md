@@ -31,6 +31,7 @@ Antibody structure; structural variation in immunoglobulin constant regions; int
 
 4-8 IgM and IgA can form polymers by interacting with the J chain.
 
+<<<<<<< HEAD
 4-9 Localized regions of hypervariable sequence form the antigen-binding site.
 ![[Pasted image 20241009045308.png]]
 4-10 Antibodies bind antigens via contacts in CDRs that are complementary to the size and shape of the antigen.
@@ -71,3 +72,12 @@ complex.
 
 4-23 A distinct subset of T cells bears an alternative receptor made up of γ and δ chains.
 
+=======
+NK Cells (favorite cells)
+5 things 
+
+T cells 
+-cytotoxic and helper,
+-immense theraputic potential (CarT)
+-
+>>>>>>> origin/main
