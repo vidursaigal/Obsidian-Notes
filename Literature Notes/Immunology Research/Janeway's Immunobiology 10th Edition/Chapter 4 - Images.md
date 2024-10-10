@@ -29,7 +29,6 @@ Antibody structure; structural variation in immunoglobulin constant regions; int
 
 4-8 IgM and IgA can form polymers by interacting with the J chain.
 
-<<<<<<< HEAD
 4-9 Localized regions of hypervariable sequence form the antigen-binding site.
 ![[Pasted image 20241009045308.png]]
 4-10 Antibodies bind antigens via contacts in CDRs that are complementary to the size and shape of the antigen.
