@@ -180,9 +180,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec8b050cc8300889",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fleeting Thoughts/Startup Ideas.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -248,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
+                "file": "Fleeting Thoughts/Startup Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -265,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
+                "file": "Fleeting Thoughts/Startup Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md"
+                "file": "Fleeting Thoughts/Startup Ideas.md"
               }
             }
           },
@@ -318,13 +330,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2f4ea25f673518d",
+  "active": "ec8b050cc8300889",
   "lastOpenFiles": [
+    "Literature Notes/Normal People/Genomic Articulations of Indigeneity - Kim TallBear.md",
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Images.md",
