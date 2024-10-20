@@ -231,12 +231,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - Images.md",
+                "file": "Blog Posts (dedicated writing pieces)/001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 5 - Images"
+              "title": "001"
             }
           }
         ],
@@ -392,8 +392,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a360fa09da5e71f8",
+  "active": "8a32b15561acab1d",
   "lastOpenFiles": [
+    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - Images.md",
+    "Blog Posts (dedicated writing pieces)/001.md",
+    "Blog Posts (dedicated writing pieces)",
     "Literature Notes/Books",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Innate Immunity - The First Lines of Defense.md",
@@ -410,7 +413,6 @@
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - The Generation of Lymphocyte Antigen Receptors.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
     "Images/Pasted image 20241009223407.png",
@@ -437,7 +439,6 @@
     "Literature Notes/Other Research Papers",
     "Literature Notes/Normal People",
     "Literature Notes/Immunology Research",
-    "Literature Notes/Books/Behave The Biology of Humans at our Best and Worst",
-    "Fleeting Thoughts"
+    "Literature Notes/Books/Behave The Biology of Humans at our Best and Worst"
   ]
 }
