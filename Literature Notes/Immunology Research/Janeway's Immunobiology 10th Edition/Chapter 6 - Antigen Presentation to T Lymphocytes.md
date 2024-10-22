@@ -49,3 +49,47 @@
 - Inactivated dendritic cells express MARCH-1, which ubiquitinates MHC class II molecules, leading to their degradation.
 - Upon activation, dendritic cells reduce MARCH-1 expression, prolonging the lifetime of peptide:MHC class II complexes on the surface.
 - This mechanism ensures that pathogen-derived peptides are presented for longer periods during immune responses.
+
+---
+# Notes on Antigen Presentation to T Lymphocytes
+
+## Section 6-10: Many proteins involved in antigen processing and presentation are encoded by genes within the MHC
+- The MHC complex, located on chromosome 6 in humans, contains a large number of genes, with many encoding proteins involved in antigen presentation.
+- MHC class I and II genes are linked within the MHC and vary between species (e.g., human HLA genes vs. mouse H-2 genes).
+- Genes encoding antigen-presentation proteins like β2-microglobulin, invariant chain, TAPBPR, cathepsin S, and MARCH1 are located outside the MHC.
+- Key proteins involved in antigen presentation, including TAP and the proteasome components, are encoded within the MHC region, demonstrating the evolutionary importance of antigen presentation.
+- The presence of multiple MHC genes in each class allows individuals to present a broader range of peptides for immune responses.
+
+## Section 6-11: The protein products of MHC class I and class II genes are highly polymorphic
+- MHC polymorphism means multiple alleles exist for each MHC gene, contributing to diversity in peptide presentation across the population.
+- MHC molecules are expressed in a codominant manner, meaning both alleles contribute equally to the pool of MHC proteins on a cell surface.
+- The extensive diversity due to polymorphism and polygeny ensures that populations can respond to a wide range of pathogens, making it difficult for pathogens to evade immune detection.
+- In fully heterozygous individuals, diversity of MHC class II molecules can increase further through the pairing of different allelic forms of α and β chains.
+
+## Section 6-12: MHC polymorphism affects antigen recognition by T cells by influencing both peptide binding and the contacts between the T-cell receptor and MHC molecule
+- MHC polymorphisms are clustered around the peptide-binding groove and areas that make contact with T-cell receptors, influencing both peptide recognition and binding.
+- The sequence motifs that define which peptides can bind to specific MHC molecules are altered by polymorphisms in the peptide-binding groove.
+- Failures in immune response to particular antigens (Ir gene defects) were observed in inbred animals that lack the diversity in MHC molecules, highlighting the importance of polymorphism.
+- The concept of MHC restriction is introduced: T-cell recognition of antigen is restricted to specific MHC alleles, explaining how T cells are limited in recognizing only antigens presented by host MHC molecules.
+
+## Section 6-13: Alloreactive T cells recognizing nonself MHC molecules are very abundant
+- T cells exhibit alloreactivity, meaning they can react to nonself MHC molecules, which is particularly important in organ transplantation and tissue rejection.
+- About 1-10% of T cells respond to allogeneic MHC molecules, contributing to the strong immune responses seen in transplant rejection.
+- This phenomenon is explained by positive selection in the thymus, where T cells are selected for weak interactions with self-MHC molecules, which might cross-react with nonself MHC molecules.
+- Crystallographic studies suggest that some T-cell receptor genes inherently possess MHC affinity, explaining why alloreactivity is so common.
+
+## Section 6-14: Many T cells respond to superantigens
+- Superantigens are proteins produced by pathogens (e.g., bacteria, viruses) that stimulate an unusually large number of T cells by binding to both MHC class II molecules and T-cell receptors.
+- Unlike normal antigens, superantigens do not need to be processed and can bind directly to MHC class II molecules, outside of the peptide-binding groove.
+- Superantigens cause a massive production of cytokines by CD4 T cells, leading to systemic toxicity and suppression of adaptive immunity, aiding pathogen survival.
+
+## Section 6-15: MHC polymorphism extends the range of antigens to which the immune system can respond
+- The high level of MHC polymorphism ensures that different individuals can present a wide range of pathogen-derived peptides, increasing the likelihood of mounting an effective immune response.
+- Pathogens like Epstein-Barr virus and adenovirus evolve to escape detection by mutating peptides to avoid MHC binding, but the diversity of MHC molecules makes complete immune evasion difficult.
+- There is a balance between the number of MHC genes that can increase immune response diversity and the need to maintain self-tolerance by removing autoreactive T cells.
+
+## Summary
+- MHC molecules are crucial for presenting pathogen-derived peptides to T cells, with extensive polymorphism ensuring a broad range of peptide-binding specificities.
+- The diversity of MHC molecules contributes to individual and population-level immunity, making it harder for pathogens to evade immune detection.
+- MHC restriction, superantigen responses, and alloreactivity are key concepts in understanding how MHC molecules mediate immune responses.
+- Evolutionary pressures maintain the polymorphism in MHC molecules to ensure effective immune defenses against a wide range of pathogens.
