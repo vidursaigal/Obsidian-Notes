@@ -93,3 +93,36 @@
 - The diversity of MHC molecules contributes to individual and population-level immunity, making it harder for pathogens to evade immune detection.
 - MHC restriction, superantigen responses, and alloreactivity are key concepts in understanding how MHC molecules mediate immune responses.
 - Evolutionary pressures maintain the polymorphism in MHC molecules to ensure effective immune defenses against a wide range of pathogens.
+
+---
+# Recognition of Nonpeptide Ligands by Unconventional T-Cell Subsets
+
+## Section 6-16: A variety of genes with specialized functions in immunity are also encoded in the MHC
+- **Nonclassical MHC class I proteins**: Unlike classical MHC class I proteins, these proteins show less polymorphism and can be found both inside and outside the MHC region.
+- These proteins may or may not associate with β2-microglobulin, and their expression varies across different cell types.
+- The function of some MHC class Ib proteins remains unknown, but others, like H2-M3 in mice, can present specialized peptides such as those with N-formylated amino termini from bacterial proteins.
+- Some MHC class Ib molecules, like MIC-A and MIC-B, act as ligands for receptors on NK cells and γδ T cells, playing roles in innate immunity.
+
+## Section 6-17: Specialized MHC class I molecules act as ligands for the activation and inhibition of NK cells and unconventional T-cell subsets
+- **MIC-A and MIC-B**: These stress-induced MHC class Ib proteins bind to the NKG2D receptor, which is expressed on NK cells, γδ T cells, and some CD8 T cells.
+- **NKG2D receptor**: Activates cells to kill targets expressing MIC proteins, particularly during stress, infection, or transformation.
+- **HLA-E and Qa-1**: Bind nonpolymorphic peptides and interact with NKG2A to inhibit NK cell activity, while also contributing to self-tolerance by regulating CD8 T cells.
+
+## Section 6-18: Members of the CD1 family of MHC class I–like molecules present lipid-based antigens to NKT cells
+- **CD1 molecules**: Structurally similar to MHC class I, CD1 molecules bind and present lipid-based antigens rather than peptides.
+- CD1a, CD1b, CD1c, and CD1d are involved in presenting lipids and glycolipids to different T-cell subsets, particularly invariant NKT (iNKT) cells.
+- **CD1d**: Binds microbial glycolipids like α-galactosylceramide, which activates NKT cells to rapidly produce cytokines, bridging innate and adaptive immune responses.
+
+## Section 6-19: The nonclassical MHC class I molecule MR1 presents microbial riboflavin metabolites to MAIT cells
+- **MR1**: Recognizes microbial riboflavin (vitamin B2) metabolites, which are presented to mucosal-associated invariant T (MAIT) cells.
+- **MAIT cells**: These cells, which are abundant in human tissues, are activated by microbial metabolites and play a role in recognizing infections involving bacteria and yeast that produce riboflavin.
+
+## Section 6-20: γδ T cells can recognize a variety of diverse ligands
+- **γδ T cells**: Unlike αβ T cells, γδ T cells recognize a broad range of nonpeptide ligands, including stress-related proteins like MIC-A/B, phosphoantigens, and lipids presented by CD1 molecules.
+- These cells can rapidly expand and produce cytokines, especially during infections, playing an important role in both innate and adaptive immunity.
+- The diverse ligands recognized by γδ T cells highlight their function as intermediate players between the two arms of the immune system.
+
+## Summary
+- **Unconventional T cells**: These include γδ T cells, MAIT cells, and iNKT cells, which recognize nonpeptide antigens presented by MHC class I–like molecules (e.g., MR1, CD1).
+- These cells play critical roles in early immune responses, bridging innate and adaptive immunity, and responding rapidly to microbial and stress-induced ligands.
+- **MHC class Ib proteins**: These proteins contribute to immune responses by interacting with NK cells, γδ T cells, and CD8 T cells, often responding to stress, infection, or transformation.
