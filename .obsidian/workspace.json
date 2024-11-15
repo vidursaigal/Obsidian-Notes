@@ -287,7 +287,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CD4 & TCRb KO Cell Lines.md",
+                "file": "Temp Notes/CD4 & TCRb KO Cell Lines.md",
                 "mode": "source",
                 "source": false
               },
@@ -448,13 +448,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d34c2242d95dabc3",
+  "active": "a360fa09da5e71f8",
   "lastOpenFiles": [
     "Temp Notes",
     "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
     "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
     "Video Notes/Stanford CS229 I Machine Learning I Building Large Language Models (LLMs).md",
-    "CD4 & TCRb KO Cell Lines.md",
+    "Temp Notes/CD4 & TCRb KO Cell Lines.md",
     "Literature Notes/Other Research Papers/Learning is inhibited by heat exposure, both internationally and within the United States.md",
     "Literature Notes/Computer Science/Runtime Code Snippets & Recurrences.md",
     "Literature Notes/Computer Science/Stacks & Queues.md",
