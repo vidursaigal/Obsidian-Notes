@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "85a52c593693614c",
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,8 +174,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a360fa09da5e71f8",
+  "active": "c3d04edd296705e7",
   "lastOpenFiles": [
+    "Images/Pasted image 20241115212644.png",
+    "Images/Pasted image 20241115212529.png",
+    "Images/Pasted image 20241115212220.png",
+    "Images/Pasted image 20241115210638.png",
+    "Images/Pasted image 20241115210102.png",
+    "Images/Pasted image 20241115205952.png",
     "Images/Pasted image 20241115205158.png",
     "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
     "Images/Pasted image 20241115204852.png",
@@ -182,17 +189,11 @@
     "Images/Pasted image 20241115204806.png",
     "Images/Pasted image 20241115204709.png",
     "Images/Pasted image 20241115204605.png",
-    "Images/Pasted image 20241115204539.png",
-    "Images/Pasted image 20241115204356.png",
-    "Images/Pasted image 20241115204127.png",
-    "Images/Pasted image 20241115203910.png",
     "Temp Notes/CD4 & TCRb KO Cell Lines.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Innate Immunity - The First Lines of Defense.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Basic Concepts in Immunology.md",
-    "Images/Pasted image 20241005174708.png",
-    "Images/Pasted image 20241005174732.png",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
     "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
     "Literature Notes/Normal People/Disability and the Dialectics of Difference by Nirmala Erevelles.md",
