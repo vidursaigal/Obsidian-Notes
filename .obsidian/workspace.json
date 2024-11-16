@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "befafe6061543952",
+        "id": "f84f035dac0dcce6",
         "type": "tabs",
         "children": [
           {
-            "id": "cade27e3bd2363f1",
+            "id": "c3d04edd296705e7",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20241115204852.png"
+                "file": "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241115204852"
+              "icon": "lucide-file",
+              "title": "Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls"
             }
           }
         ]
@@ -173,8 +175,10 @@
   },
   "active": "a360fa09da5e71f8",
   "lastOpenFiles": [
-    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
+    "Images/Pasted image 20241115205158.png",
+    "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
     "Images/Pasted image 20241115204852.png",
+    "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
     "Images/Pasted image 20241115204806.png",
     "Images/Pasted image 20241115204709.png",
     "Images/Pasted image 20241115204605.png",
@@ -182,7 +186,6 @@
     "Images/Pasted image 20241115204356.png",
     "Images/Pasted image 20241115204127.png",
     "Images/Pasted image 20241115203910.png",
-    "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
     "Temp Notes/CD4 & TCRb KO Cell Lines.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Innate Immunity - The First Lines of Defense.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
@@ -208,7 +211,6 @@
     "Fleeting Thoughts/Existential Crisis.md",
     "Fleeting Thoughts/Motivation.md",
     "Fleeting Thoughts/Nietzsche.md",
-    "Fleeting Thoughts/Startup Ideas.md",
     "Temp Notes",
     "Blog Posts",
     "Literature Notes/Books",
