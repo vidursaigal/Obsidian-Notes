@@ -308,9 +308,37 @@
               "icon": "lucide-file",
               "title": "Euclid’s Algorithm for Greatest Common Divisor"
             }
+          },
+          {
+            "id": "88dc0ac6d3468919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Computer Science/BFS and DFS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BFS and DFS"
+            }
+          },
+          {
+            "id": "8bff1ecf4d115332",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Literature Notes/Computer Science/BFS and DFS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BFS and DFS"
+            }
           }
         ],
-        "currentTab": 21
+        "currentTab": 23
       }
     ],
     "direction": "vertical"
@@ -463,13 +491,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f200cc5e3d4ab5fc",
+  "active": "8bff1ecf4d115332",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Literature Notes/Computer Science/BFS and DFS.md",
+    "Temp Notes/CD4 & TCRb KO Cell Lines.md",
+    "Literature Notes/Computer Science/Euclid’s Algorithm for Greatest Common Divisor.md",
+    "Literature Notes/Immunology Research/Inhibition of T cell receptor signaling by cholesterol sulfate, a naturally occurring derivative of membrane cholesterol.md",
+    "Literature Notes/Computer Science/Huffman Encoding.md",
+    "Images/Pasted image 20250303121043.png",
+    "Images/Pasted image 20250218124915.png",
     "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
     "Literature Notes/Computer Science/Runtime Code Snippets & Recurrences.md",
-    "Literature Notes/Computer Science/Euclid’s Algorithm for Greatest Common Divisor.md",
     "Literature Notes/Computer Science/Stacks & Queues.md",
-    "Temp Notes/CD4 & TCRb KO Cell Lines.md",
     "Video Notes/Exploring TCR-Epitope Prediction Tools- Insights And Pitfalls.md",
     "Video Notes/Single Cell Sequencing - Eric Chow (UCSF).md",
     "Fleeting Thoughts/Existential Crisis.md",
@@ -485,8 +519,6 @@
     "Images/Pasted image 20241115205952.png",
     "Images/Pasted image 20241115205158.png",
     "Images/Pasted image 20241115204852.png",
-    "Images/Pasted image 20241115204806.png",
-    "Images/Pasted image 20241115204709.png",
     "Fleeting Thoughts/Startup Ideas.md",
     "Fleeting Thoughts/Thing to Look Into.md",
     "Fleeting Thoughts/Nietzsche.md",
@@ -500,10 +532,6 @@
     "Literature Notes/Books",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Innate Immunity - The First Lines of Defense.md",
-    "Literature Notes/Normal People/Was Marie White - The Trajectory of a Question in the United States by Nell Irvin Painter.md",
-    "Literature Notes/Normal People/The World is Unknown by Carolyn Lazard.md",
-    "Literature Notes/Normal People/Genomic Articulations of Indigeneity - Kim TallBear.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Midterm 1 Review.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition",
     "Images",
     "Video Notes",
