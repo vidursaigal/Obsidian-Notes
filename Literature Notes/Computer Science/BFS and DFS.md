@@ -73,3 +73,14 @@ In summary:
 - The maximum number of edges is **\( O(n^2) \)** in both directed and undirected graphs.
 - A **connected undirected graph** must have at least **\( n - 1 \)** edges.
 - **Sparse graphs** have fewer edges (\( O(n) \)), while **dense graphs** have many edges (\( O(n^2) \)).
+
+---
+
+Adjacency List: 
+- Most space efficient solution for sparse graphs
+
+Adjacency Matrix:
+- Storing data regardless of whether or not there is a connection between two nodes 
+- Adding an edge or testing for the presence of an edge is much quicker than adjacency list
+
+![[Pasted image 20250305203425.png]]

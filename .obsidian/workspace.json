@@ -395,7 +395,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "85a52c593693614c",
@@ -493,9 +493,10 @@
   },
   "active": "8bff1ecf4d115332",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Literature Notes/Computer Science/BFS and DFS.md",
     "Temp Notes/CD4 & TCRb KO Cell Lines.md",
+    "Images/Pasted image 20250305203425.png",
+    "Literature Notes/Computer Science/BFS and DFS.md",
+    "conflict-files-obsidian-git.md",
     "Literature Notes/Computer Science/Euclid’s Algorithm for Greatest Common Divisor.md",
     "Literature Notes/Immunology Research/Inhibition of T cell receptor signaling by cholesterol sulfate, a naturally occurring derivative of membrane cholesterol.md",
     "Literature Notes/Computer Science/Huffman Encoding.md",
@@ -518,7 +519,6 @@
     "Images/Pasted image 20241115210102.png",
     "Images/Pasted image 20241115205952.png",
     "Images/Pasted image 20241115205158.png",
-    "Images/Pasted image 20241115204852.png",
     "Fleeting Thoughts/Startup Ideas.md",
     "Fleeting Thoughts/Thing to Look Into.md",
     "Fleeting Thoughts/Nietzsche.md",
@@ -531,7 +531,6 @@
     "Blog Posts",
     "Literature Notes/Books",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Images.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 2 - Innate Immunity - The First Lines of Defense.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition",
     "Images",
     "Video Notes",
