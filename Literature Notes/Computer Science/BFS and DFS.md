@@ -15,9 +15,7 @@ where  $$E \subseteq V \times V \ $$, meaning that edges are pairs of vertices.
 ## Types of Graphs
 
 ### 1. Directed vs. Undirected Graphs
-- In a **directed graph**, each edge has a direction, meaning if \((i, j) \in E\), then the edge goes from vertex \(i\) to vertex \(j\) but not necessarily the other way around.
 - In an **undirected graph**, all edges are bidirectional, meaning if \((i, j) \in E\), then \((j, i) \in E\) as well.
-
 ### 2. Graph Connectivity
 A **connected graph** is one in which, for any two vertices \( u \) and \( v \), there exists a path between them.
 
@@ -36,9 +34,9 @@ The number of edges (\( m \)) in a graph depends on whether it is directed or un
 
 ### **Directed Graph**
 - In a directed graph, each vertex can have an edge to any other vertex, so:
-  \[
+   $$
   m \leq n(n - 1)
-  \]
+ $$
   This accounts for all possible directed edges between \( n \) vertices.
 
 From this, we can conclude:
