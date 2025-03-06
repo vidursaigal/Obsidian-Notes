@@ -75,12 +75,26 @@ In summary:
 - **Sparse graphs** have fewer edges (\( O(n) \)), while **dense graphs** have many edges (\( O(n^2) \)).
 
 ---
+![[Pasted image 20250305203425.png]]
 
 Adjacency List: 
 - Most space efficient solution for sparse graphs
 
+Step 1: Create a list for each vertex; the first element in that list is that vertex
+Step 2: Put all connected neighbors of that vertex in the list (one away)
+
+
 Adjacency Matrix:
 - Storing data regardless of whether or not there is a connection between two nodes 
 - Adding an edge or testing for the presence of an edge is much quicker than adjacency list
+- The adjacency matrix can check if (i, j) is an edge in G in constant time, whereas the adjacency list representation must iterate through up to deg(i) list entries
+- The adjacency matrix takes Θ(n 2 ) space, whereas the adjacency list takes Θ(m + n) space. 
+- The adjacency matrix takes Θ(n) operations to enumerate the neighbors of a vertex v since it must iterate across an entire row of the matrix. The adjacency list takes deg(v) time.
+- If the graph is dense and the number of edges is nearly n squared, a matrix makes sense
 
-![[Pasted image 20250305203425.png]]
+Step 1: Create a mxm matrix where m is a list of the vertices. 
+Step 2: Put a 1 where there is a connection between nodes, put a 0 where there is no connection between nodes. 
+
+---
+Connectivity: 
+
