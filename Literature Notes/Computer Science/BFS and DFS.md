@@ -97,4 +97,16 @@ Step 2: Put a 1 where there is a connection between nodes, put a 0 where there i
 
 ---
 Connectivity: 
+Is there a path from s (source node) to t (target node)? 
+- BFS and DFS give us two different algorithms to determine this
+
+---
+Breadth-First Search:
+![[Pasted image 20250305205116.png]]![[Pasted image 20250305205219.png]]
+
+---
+Depth-First Search:
+![[Pasted image 20250305210616.png]]![[Pasted image 20250305210629.png]]
+![[Pasted image 20250305210648.png]]
+DFS can be implemented either recursively or using a stack.
 
