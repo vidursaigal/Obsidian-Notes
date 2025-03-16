@@ -62,7 +62,6 @@ This corresponds to a **tree**, which is the sparsest possible connected graph.
 ## Sparse vs. Dense Graphs
 - A **sparse graph** has relatively few edges, typically on the order of \( \Theta(n) \).
 - A **dense graph** has a number of edges approaching the maximum possible, often on the order of  $$\Theta(n^2)  $$
-
 In summary:
 - **Sparse graphs:** \( m = O(n) \) (e.g., trees, some real-world networks)
 - **Dense graphs:** \( m = O(n^2) \) (e.g., complete graphs)
