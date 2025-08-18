@@ -20,8 +20,37 @@
               "icon": "lucide-file",
               "title": "BFS and DFS"
             }
+          },
+          {
+            "id": "303679237db9780e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "shRNA TDP-43 astrocytes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "shRNA TDP-43 astrocytes"
+            }
+          },
+          {
+            "id": "832eab1239faa767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "temp/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -174,10 +203,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "10bce460c94f4a82",
+  "active": "832eab1239faa767",
   "lastOpenFiles": [
-    "Literature Notes/Computer Science/Huffman Encoding.md",
+    "temp/Untitled.md",
+    "temp",
     "Literature Notes/Computer Science/BFS and DFS.md",
+    "shRNA TDP-43 astrocytes.md",
+    "conflict-files-obsidian-git.md",
+    "Literature Notes/Computer Science/Pasted image 20250305205219.png",
+    "Images/Pasted image 20250305210648.png",
+    "Images/Pasted image 20250305210629.png",
+    "Images/Pasted image 20250305210616.png",
+    "Images/Pasted image 20250305205116.png",
+    "Images/Pasted image 20250305203425.png",
+    "Literature Notes/Computer Science/Huffman Encoding.md",
     "Images/Pasted image 20250303121043.png",
     "Literature Notes/Computer Science/Big O, Big Omega, and Big Theta Notation.md",
     "Images/Pasted image 20250218124915.png",
@@ -206,9 +245,6 @@
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Cellular Mechanisms of Innate Immunity.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 5 - Images.md",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Images.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 4 - Antigen Recognition by B-cell and T-cell Receptors.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 3 - Images.md",
-    "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition/Chapter 1 - Images.md",
     "Literature Notes/Books/Behave The Biology of Humans at our Best and Worst",
     "Literature Notes/Immunology Research/Janeway's Immunobiology 10th Edition",
     "Literature Notes/Computer Science",
@@ -216,14 +252,7 @@
     "Literature Notes/Books",
     "Literature Notes/Other Research Papers",
     "Literature Notes/Normal People",
-    "Literature Notes/Immunology Research",
     "Images/Pasted image 20241115212644.png",
-    "Images/Pasted image 20241115212529.png",
-    "Images/Pasted image 20241115212220.png",
-    "Images/Pasted image 20241115210638.png",
-    "Images/Pasted image 20241115210102.png",
-    "Images/Pasted image 20241115205952.png",
-    "Images/Pasted image 20241115205158.png",
-    "Images/Pasted image 20241115204852.png"
+    "Images/Pasted image 20241115212529.png"
   ]
 }
