@@ -1,26 +1,3 @@
-CD4 KO
-
-Start with normal J76
-
-guide RNA incubate with Cas9 -> electrophoresis
-
-Measure vs. J76, primary cells? 
-
-Flow
-
----
-
-TCRb KO
-
-Start with J76
-
-guide RNA incubate with Cas9 -> electrophoresis
-
-no flow? sequencing. 
-
-
-<<<<<<< HEAD
-
 ### Protocol Steps:
 
  **Prepare RNP Complex:**
@@ -40,8 +17,10 @@ For most optimized protocols, seed with:
     - Immediately transfer the electroporated cells into pre-warmed recovery media in a 24-well plate.
 4. **Post-Electroporation Recovery:**
     - Allow cells to recover in a CO₂ incubator (37°C, 5% CO₂) for 24 hours.
-=======
----
+
+
+
+
 The electroporator is discontinued, buffers and pipettes will be discontinued within the next years.
 Smaller set, might take a few tries
 shock cells -> traumatized -> immediately put back into incubator
@@ -61,8 +40,6 @@ No schedule -> book a TC Hood (Move electroporator on a cart) Transfect cells  -
 
 
 
-
----
 6:1, 3:1, 2.5:1, or 2:1 or 1:1 higher on the gRNA
 
 100ug 1ug -> 6.25mol
@@ -73,5 +50,6 @@ No schedule -> book a TC Hood (Move electroporator on a cart) Transfect cells  -
 1 million T-cells
 
 
-half of each gRNA so that it sums 75; complex them seperately. 25pmol and 75pmol, 2x .
->>>>>>> origin/main
+half of each gRNA so that it sums 75; complex them seperately. 25pmol and 75pmol, 2x 
+
+
